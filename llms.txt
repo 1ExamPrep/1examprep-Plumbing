@@ -1,0 +1,387 @@
+# Pass Your Plumbing Exam
+
+> Exam prep for 163 plumber, plumbing contractor and plumbing inspector licenses in 46 states and Washington DC, plus ICC national plumbing exams and plumbing code books. 759 products: online courses, reference book packages, highlighted books, rentals, combos and The 1 Package. Buy buttons go straight to checkout; orders are fulfilled by 1 Exam Prep. Phone (877) 775-9400, email sales@1examprep.com.
+
+## How the site is organised
+
+- `/` has the state map, the board for each state and every state.
+- `/<state>/` names the licensing board for that state and lists its plumbing licenses.
+- `/<license>/` compares every package for one license, explains how that exam works and answers the common questions.
+- `/<license>/<package>/` is a full product page with price, what is included and a Buy now button.
+
+## Alabama
+
+- [Alabama state page](https://passyourplumbingexam.com/alabama/index.md): the Alabama Plumbers and Gas Fitters Examining Board
+- [Journeyman Plumber](https://passyourplumbingexam.com/alabama-journeyman-plumber/index.md): 7 options from $59.99
+- [Master Plumber](https://passyourplumbingexam.com/alabama-master-plumber/index.md): 7 options from $295
+- [Plumbing Business and Law](https://passyourplumbingexam.com/alabama-plumbing-business-and-law/index.md): 2 options from $245
+
+## Alaska
+
+- [Alaska state page](https://passyourplumbingexam.com/alaska/index.md): the Alaska Department of Labor and Workforce Development, Mechanical Inspection
+- [Journeyman Plumber](https://passyourplumbingexam.com/alaska-journeyman-plumber/index.md): 3 options from $59.99
+
+## Arizona
+
+- [Arizona state page](https://passyourplumbingexam.com/arizona/index.md): the Arizona Registrar of Contractors (ROC)
+- [Journeyman Plumber](https://passyourplumbingexam.com/arizona-journeyman-plumber/index.md): 5 options from $59.99
+- [Plumbing Commercial Contractor (C-37)](https://passyourplumbingexam.com/arizona-plumbing-commercial-contractor-c-37/index.md): 12 options from $79.99
+- [Plumbing Residential / Commercial Contractor (CR-37)](https://passyourplumbingexam.com/arizona-plumbing-residential-commercial-contractor-cr-37/index.md): 12 options from $79.99
+- [Plumbing, Including Solar Commercial Contractor (C-77)](https://passyourplumbingexam.com/arizona-plumbing-including-solar-commercial-contractor-c-77/index.md): 11 options from $79.99
+- [Plumbing, Including Solar Residential / Commercial Contractor (CR-77)](https://passyourplumbingexam.com/arizona-plumbing-including-solar-residential-commercial-contractor-cr-77/index.md): 11 options from $79.99
+- [Plumbing, Including Solar Residential Contractor (R-37)](https://passyourplumbingexam.com/arizona-plumbing-including-solar-residential-contractor-r-37/index.md): 11 options from $79.99
+- [Plumbing, Residential Contractor (R-37R)](https://passyourplumbingexam.com/arizona-plumbing-residential-contractor-r-37r/index.md): 11 options from $79.99
+- [Solar Plumbing, Liquid System Only Commercial Contractor (C-78)](https://passyourplumbingexam.com/arizona-solar-plumbing-liquid-system-only-commercial-contractor-c-78/index.md): 11 options from $79.99
+- [Solar Plumbing, Liquid Systems Only Residential / Commercial Contractor (CR-78)](https://passyourplumbingexam.com/arizona-solar-plumbing-liquid-systems-only-residential-commercial-contractor-cr-78/index.md): 11 options from $79.99
+
+## Arkansas
+
+- [Arkansas state page](https://passyourplumbingexam.com/arkansas/index.md): the Arkansas Department of Health, Plumbing and Natural Gas Section
+- [Journeyman Plumber](https://passyourplumbingexam.com/arkansas-journeyman-plumber/index.md): 3 options from $59.99
+
+## California
+
+- [California state page](https://passyourplumbingexam.com/california/index.md): the Contractors State License Board (CSLB)
+- [Journeyman Plumber](https://passyourplumbingexam.com/california-journeyman-plumber/index.md): 3 options from $59.99
+- [Plumbing (C-36) Contractor](https://passyourplumbingexam.com/california-plumbing-c-36-contractor/index.md): 6 options from $79.99
+- [Commercial Plumbing Inspector (ICC I3)](https://passyourplumbingexam.com/california-commercial-plumbing-inspector-icc-i3/index.md): 1 option from $345
+- [Residential Plumbing Inspector (ICC J3)](https://passyourplumbingexam.com/california-residential-plumbing-inspector-icc-j3/index.md): 1 option from $245
+
+## Colorado
+
+- [Colorado state page](https://passyourplumbingexam.com/colorado/index.md): the Colorado State Plumbing Board (Division of Professions and Occupations)
+- [Journeyman Plumber](https://passyourplumbingexam.com/colorado-journeyman-plumber/index.md): 6 options from $59.99
+- [Master Plumber](https://passyourplumbingexam.com/colorado-master-plumber/index.md): 2 options from $250
+- [Residential Plumber Contractor](https://passyourplumbingexam.com/colorado-residential-plumber-contractor/index.md): 1 option from $395
+- [Commerce City Master Plumber with Gas (ICC G27-N)](https://passyourplumbingexam.com/colorado-commerce-city-master-plumber-with-gas-icc-g27-n/index.md): 4 options from $295
+
+## Connecticut
+
+- [Connecticut state page](https://passyourplumbingexam.com/connecticut/index.md): the Connecticut Department of Consumer Protection, Occupational and Professional Licensing
+- [Journeyman Plumber](https://passyourplumbingexam.com/connecticut-journeyman-plumber/index.md): 5 options from $59.99
+
+## Delaware
+
+- [Delaware state page](https://passyourplumbingexam.com/delaware/index.md): the Delaware Board of Plumbing, Heating, Ventilation, Air Conditioning and Refrigeration Examiners
+- [Journeyman Plumber](https://passyourplumbingexam.com/delaware-journeyman-plumber/index.md): 5 options from $59.99
+- [Master Plumber](https://passyourplumbingexam.com/delaware-master-plumber/index.md): 4 options from $79.99
+
+## Washington DC
+
+- [Washington DC state page](https://passyourplumbingexam.com/washington-dc/index.md): the DC Department of Licensing and Consumer Protection (DLCP)
+- [Journeyman Plumber](https://passyourplumbingexam.com/washington-dc-journeyman-plumber/index.md): 4 options from $105
+- [Journeyman Plumber with Gas](https://passyourplumbingexam.com/washington-dc-journeyman-plumber-with-gas/index.md): 2 options from $210
+- [Master Plumber](https://passyourplumbingexam.com/washington-dc-master-plumber/index.md): 2 options from $105
+- [Master Plumber with Gas](https://passyourplumbingexam.com/washington-dc-master-plumber-with-gas/index.md): 2 options from $210
+
+## Florida
+
+- [Florida state page](https://passyourplumbingexam.com/florida/index.md): the Florida Construction Industry Licensing Board (CILB)
+- [Journeyman Plumber](https://passyourplumbingexam.com/florida-journeyman-plumber/index.md): 3 options from $59.99
+- [Journeyman Plumber (County, GITS PBE1B)](https://passyourplumbingexam.com/florida-journeyman-plumber-county-gits-pbe1b/index.md): 1 option from $295
+- [Journeyman Plumber (County, Prov)](https://passyourplumbingexam.com/florida-journeyman-plumber-county-prov/index.md): 1 option from $295
+- [Master Plumber (County, GITS PAE1B)](https://passyourplumbingexam.com/florida-master-plumber-county-gits-pae1b/index.md): 2 options from $44.99
+- [Master Plumber (County, Prov)](https://passyourplumbingexam.com/florida-master-plumber-county-prov/index.md): 1 option from $295
+- [Master Plumber with Gas (County, Prov)](https://passyourplumbingexam.com/florida-master-plumber-with-gas-county-prov/index.md): 1 option from $295
+- [Plumbing Contractor](https://passyourplumbingexam.com/florida-plumbing-contractor/index.md): 14 options from $69.99
+- [Plumbing Maintenance (County, Prov)](https://passyourplumbingexam.com/florida-plumbing-maintenance-county-prov/index.md): 1 option from $295
+- [Commercial Plumbing Inspector (ICC P2)](https://passyourplumbingexam.com/florida-commercial-plumbing-inspector-icc-p2/index.md): 9 options from $79.99
+- [Residential Plumbing Inspector (ICC P1)](https://passyourplumbingexam.com/florida-residential-plumbing-inspector-icc-p1/index.md): 9 options from $79.99
+- [Plumbing Plans Examiner (ICC P3)](https://passyourplumbingexam.com/florida-plumbing-plans-examiner-icc-p3/index.md): 8 options from $79.99
+
+## Georgia
+
+- [Georgia state page](https://passyourplumbingexam.com/georgia/index.md): the Georgia State Construction Industry Licensing Board, Division of Master Plumbers and Journeyman Plumbers
+- [Journeyman Plumber](https://passyourplumbingexam.com/georgia-journeyman-plumber/index.md): 10 options from $59.99
+- [Master Plumber Class I (Restricted)](https://passyourplumbingexam.com/georgia-master-plumber-class-i-restricted/index.md): 6 options from $295
+- [Master Plumber Class II (Unrestricted)](https://passyourplumbingexam.com/georgia-master-plumber-class-ii-unrestricted/index.md): 6 options from $295
+- [Master Plumber](https://passyourplumbingexam.com/georgia-master-plumber/index.md): 1 option from $595
+- [Business and Law (NASCLA)](https://passyourplumbingexam.com/georgia-business-and-law-nascla/index.md): 7 options from $124.99
+
+## Hawaii
+
+- [Hawaii state page](https://passyourplumbingexam.com/hawaii/index.md): the Hawaii Board of Electricity and Plumbing (DCCA)
+- [Journeyman Plumber](https://passyourplumbingexam.com/hawaii-journeyman-plumber/index.md): 3 options from $59.99
+- [Plumbing Contractor (C-37)](https://passyourplumbingexam.com/hawaii-plumbing-contractor-c-37/index.md): 1 option from $595
+
+## Idaho
+
+- [Idaho state page](https://passyourplumbingexam.com/idaho/index.md): the Idaho Division of Occupational and Professional Licenses (DOPL), Plumbing Board
+- [Journeyman Plumber](https://passyourplumbingexam.com/idaho-journeyman-plumber/index.md): 4 options from $59.99
+- [Plumbing Specialty Appliance Journeyman](https://passyourplumbingexam.com/idaho-plumbing-specialty-appliance-journeyman/index.md): 1 option from $145
+- [Plumbing Specialty Water Pump Journeyman](https://passyourplumbingexam.com/idaho-plumbing-specialty-water-pump-journeyman/index.md): 1 option from $145
+- [Plumbing Specialty Contractor](https://passyourplumbingexam.com/idaho-plumbing-specialty-contractor/index.md): 6 options from $95
+- [Plumbing Contractor](https://passyourplumbingexam.com/idaho-plumbing-contractor/index.md): 1 option from $195
+
+## Illinois
+
+- [Illinois state page](https://passyourplumbingexam.com/illinois/index.md): the Illinois Department of Public Health (IDPH)
+- [Journeyman Plumber](https://passyourplumbingexam.com/illinois-journeyman-plumber/index.md): 3 options from $59.99
+- [Chicago Journeyman Plumber](https://passyourplumbingexam.com/illinois-chicago-journeyman-plumber/index.md): 1 option from $1,595
+
+## Indiana
+
+- [Indiana state page](https://passyourplumbingexam.com/indiana/index.md): the Indiana Plumbing Commission (Professional Licensing Agency)
+- [Journeyman Plumber](https://passyourplumbingexam.com/indiana-journeyman-plumber/index.md): 6 options from $59.99
+- [Plumbing Contractor](https://passyourplumbingexam.com/indiana-plumbing-contractor/index.md): 2 options from $195
+
+## Iowa
+
+- [Iowa state page](https://passyourplumbingexam.com/iowa/index.md): the Iowa Plumbing and Mechanical Systems Board
+- [Journeyman Plumber](https://passyourplumbingexam.com/iowa-journeyman-plumber/index.md): 3 options from $59.99
+- [Journeyman Plumber with Gas](https://passyourplumbingexam.com/iowa-journeyman-plumber-with-gas/index.md): 1 option from $295
+- [Master Plumber with Gas](https://passyourplumbingexam.com/iowa-master-plumber-with-gas/index.md): 1 option from $295
+
+## Kansas
+
+- [Kansas state page](https://passyourplumbingexam.com/kansas/index.md): the city or county where you work
+- [Journeyman Plumber with Gas (ICC 560)](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-560/index.md): 7 options from $79.99
+- [Journeyman Plumber with Gas (ICC KGR)](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/index.md): 7 options from $79.99
+- [Journeyman Plumber](https://passyourplumbingexam.com/kansas-journeyman-plumber/index.md): 3 options from $59.99
+- [Master Plumber with Gas Contractor (ICC 557)](https://passyourplumbingexam.com/kansas-master-plumber-with-gas-contractor-icc-557/index.md): 8 options from $79.99
+- [Master Plumber with Gas Contractor (ICC KGF)](https://passyourplumbingexam.com/kansas-master-plumber-with-gas-contractor-icc-kgf/index.md): 8 options from $79.99
+
+## Louisiana
+
+- [Louisiana state page](https://passyourplumbingexam.com/louisiana/index.md): the State Plumbing Board of Louisiana
+- [Master Plumber and Natural Gas](https://passyourplumbingexam.com/louisiana-master-plumber-and-natural-gas/index.md): 5 options from $124.99
+
+## Maryland
+
+- [Maryland state page](https://passyourplumbingexam.com/maryland/index.md): the Maryland State Board of Plumbing (Maryland Department of Labor)
+- [Plumber Gas Fitter Journeyman](https://passyourplumbingexam.com/maryland-plumber-gas-fitter-journeyman/index.md): 7 options from $79.99
+- [Journeyman Plumber](https://passyourplumbingexam.com/maryland-journeyman-plumber/index.md): 5 options from $59.99
+- [Master Plumber / Master Gasfitter Contractor](https://passyourplumbingexam.com/maryland-master-plumber-master-gasfitter-contractor/index.md): 8 options from $79.99
+
+## Massachusetts
+
+- [Massachusetts state page](https://passyourplumbingexam.com/massachusetts/index.md): the Massachusetts Board of State Examiners of Plumbers and Gas Fitters
+- [Journeyman Plumber Part 1 (Written)](https://passyourplumbingexam.com/massachusetts-journeyman-plumber-part-1-written/index.md): 1 option from $645
+- [Master Plumber Part 1 (Written)](https://passyourplumbingexam.com/massachusetts-master-plumber-part-1-written/index.md): 1 option from $645
+
+## Michigan
+
+- [Michigan state page](https://passyourplumbingexam.com/michigan/index.md): the Michigan State Plumbing Board (LARA, Bureau of Construction Codes)
+- [Journeyman Plumber](https://passyourplumbingexam.com/michigan-journeyman-plumber/index.md): 4 options from $59.99
+
+## Minnesota
+
+- [Minnesota state page](https://passyourplumbingexam.com/minnesota/index.md): the Minnesota Department of Labor and Industry (DLI)
+- [Journeyman Plumber](https://passyourplumbingexam.com/minnesota-journeyman-plumber/index.md): 4 options from $59.99
+- [Master Plumber](https://passyourplumbingexam.com/minnesota-master-plumber/index.md): 1 option from $195
+- [Minneapolis Journeyman Plumber with Gas (ICC 498)](https://passyourplumbingexam.com/minnesota-minneapolis-journeyman-plumber-with-gas-icc-498/index.md): 1 option from $445
+- [Minneapolis Master Plumber with Gas (ICC 497)](https://passyourplumbingexam.com/minnesota-minneapolis-master-plumber-with-gas-icc-497/index.md): 1 option from $345
+- [St. Paul Plumbing Contractor](https://passyourplumbingexam.com/minnesota-st-paul-plumbing-contractor/index.md): 1 option from $295
+
+## Mississippi
+
+- [Mississippi state page](https://passyourplumbingexam.com/mississippi/index.md): the Mississippi State Board of Contractors
+- [Journeyman Plumber](https://passyourplumbingexam.com/mississippi-journeyman-plumber/index.md): 2 options from $175
+- [Plumbing Contractor](https://passyourplumbingexam.com/mississippi-plumbing-contractor/index.md): 7 options from $295
+- [Residential Plumbing Contractor](https://passyourplumbingexam.com/mississippi-residential-plumbing-contractor/index.md): 3 options from $545
+
+## Missouri
+
+- [Missouri state page](https://passyourplumbingexam.com/missouri/index.md): the city or county where you work
+- [Springfield Journeyman Plumber (ICC W25)](https://passyourplumbingexam.com/missouri-springfield-journeyman-plumber-icc-w25/index.md): 7 options from $79.99
+- [Kansas City Journeyman Plumber with Gas (ICC 675)](https://passyourplumbingexam.com/missouri-kansas-city-journeyman-plumber-with-gas-icc-675/index.md): 1 option from $395
+- [Springfield Master Plumber (ICC W24)](https://passyourplumbingexam.com/missouri-springfield-master-plumber-icc-w24/index.md): 7 options from $79.99
+
+## Montana
+
+- [Montana state page](https://passyourplumbingexam.com/montana/index.md): the Montana State Board of Plumbers
+- [Journeyman Plumber](https://passyourplumbingexam.com/montana-journeyman-plumber/index.md): 3 options from $59.99
+
+## Nebraska
+
+- [Nebraska state page](https://passyourplumbingexam.com/nebraska/index.md): the city where you work
+- [Journeyman Plumber](https://passyourplumbingexam.com/nebraska-journeyman-plumber/index.md): 5 options from $59.99
+
+## Nevada
+
+- [Nevada state page](https://passyourplumbingexam.com/nevada/index.md): the Nevada State Contractors Board (NSCB)
+- [Journeyman Plumber](https://passyourplumbingexam.com/nevada-journeyman-plumber/index.md): 3 options from $59.99
+- [Plumbing Contractor (C-1D)](https://passyourplumbingexam.com/nevada-plumbing-contractor-c-1d/index.md): 2 options from $945
+- [Plumbing and Heating Contractor (C-1)](https://passyourplumbingexam.com/nevada-plumbing-and-heating-contractor-c-1/index.md): 2 options from $1,195
+
+## New Hampshire
+
+- [New Hampshire state page](https://passyourplumbingexam.com/new-hampshire/index.md): the New Hampshire Mechanical Licensing Board (OPLC)
+- [Journeyman Plumber](https://passyourplumbingexam.com/new-hampshire-journeyman-plumber/index.md): 6 options from $59.99
+- [Master Plumber](https://passyourplumbingexam.com/new-hampshire-master-plumber/index.md): 1 option from $195
+
+## New Mexico
+
+- [New Mexico state page](https://passyourplumbingexam.com/new-mexico/index.md): the New Mexico Construction Industries Division (Regulation and Licensing Department)
+- [Journeyman Plumber](https://passyourplumbingexam.com/new-mexico-journeyman-plumber/index.md): 3 options from $59.99
+- [Plumbing Contractor MM-1](https://passyourplumbingexam.com/new-mexico-plumbing-contractor-mm-1/index.md): 8 options from $79.99
+- [Plumbing Inspector](https://passyourplumbingexam.com/new-mexico-plumbing-inspector/index.md): 7 options from $79.99
+
+## New York
+
+- [New York state page](https://passyourplumbingexam.com/new-york/index.md): the city where you work
+- [Master Plumber](https://passyourplumbingexam.com/new-york-master-plumber/index.md): 1 option from $445
+
+## North Carolina
+
+- [North Carolina state page](https://passyourplumbingexam.com/north-carolina/index.md): the North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors
+- [Journeyman Plumber](https://passyourplumbingexam.com/north-carolina-journeyman-plumber/index.md): 3 options from $59.99
+- [Special Restricted Plumbing and Heating Contractor (SP-PH)](https://passyourplumbingexam.com/north-carolina-special-restricted-plumbing-and-heating-contractor-sp-ph/index.md): 10 options from $199
+- [Plumbing Class I Contractor](https://passyourplumbingexam.com/north-carolina-plumbing-class-i-contractor/index.md): 8 options from $79.99
+- [Plumbing Class II Contractor](https://passyourplumbingexam.com/north-carolina-plumbing-class-ii-contractor/index.md): 8 options from $79.99
+- [Plumbing Technician](https://passyourplumbingexam.com/north-carolina-plumbing-technician/index.md): 8 options from $79.99
+- [Restricted Limited Plumbing Contractor](https://passyourplumbingexam.com/north-carolina-restricted-limited-plumbing-contractor/index.md): 8 options from $79.99
+
+## Ohio
+
+- [Ohio state page](https://passyourplumbingexam.com/ohio/index.md): the Ohio Construction Industry Licensing Board (OCILB)
+- [Journeyman Plumber](https://passyourplumbingexam.com/ohio-journeyman-plumber/index.md): 5 options from $59.99
+- [Plumbing Plans Examiner (ICC P3)](https://passyourplumbingexam.com/ohio-plumbing-plans-examiner-icc-p3/index.md): 4 options from $295
+- [Cleveland Plumbing Plans Examiner (ICC P3)](https://passyourplumbingexam.com/ohio-cleveland-plumbing-plans-examiner-icc-p3/index.md): 4 options from $295
+
+## Oklahoma
+
+- [Oklahoma state page](https://passyourplumbingexam.com/oklahoma/index.md): the Oklahoma Construction Industries Board (CIB)
+- [Residential Plumbing and Natural Gas Journeyman](https://passyourplumbingexam.com/oklahoma-residential-plumbing-and-natural-gas-journeyman/index.md): 6 options from $79.99
+- [Journeyman Plumber](https://passyourplumbingexam.com/oklahoma-journeyman-plumber/index.md): 5 options from $59.99
+- [Plumbing and Natural Gas Journeyman](https://passyourplumbingexam.com/oklahoma-plumbing-and-natural-gas-journeyman/index.md): 1 option from $295
+- [Plumbing and Natural Gas Contractor](https://passyourplumbingexam.com/oklahoma-plumbing-and-natural-gas-contractor/index.md): 8 options from $79.99
+- [Residential Plumbing and Natural Gas Contractor](https://passyourplumbingexam.com/oklahoma-residential-plumbing-and-natural-gas-contractor/index.md): 8 options from $79.99
+- [Plumbing Business and Law](https://passyourplumbingexam.com/oklahoma-plumbing-business-and-law/index.md): 6 options from $79.99
+
+## Oregon
+
+- [Oregon state page](https://passyourplumbingexam.com/oregon/index.md): the Oregon Building Codes Division (BCD)
+- [Journeyman Plumber](https://passyourplumbingexam.com/oregon-journeyman-plumber/index.md): 3 options from $59.99
+
+## Pennsylvania
+
+- [Pennsylvania state page](https://passyourplumbingexam.com/pennsylvania/index.md): the city where you work
+- [Journeyman Plumber](https://passyourplumbingexam.com/pennsylvania-journeyman-plumber/index.md): 5 options from $59.99
+- [Reading Journeyman Plumber (ICC G25-N)](https://passyourplumbingexam.com/pennsylvania-reading-journeyman-plumber-icc-g25-n/index.md): 4 options from $129
+- [Reading Master Plumber (ICC G24-N)](https://passyourplumbingexam.com/pennsylvania-reading-master-plumber-icc-g24-n/index.md): 4 options from $129
+- [Reading National Standard Master Plumber (ICC F24-N)](https://passyourplumbingexam.com/pennsylvania-reading-national-standard-master-plumber-icc-f24-n/index.md): 4 options from $129
+
+## Rhode Island
+
+- [Rhode Island state page](https://passyourplumbingexam.com/rhode-island/index.md): the Rhode Island Department of Labor and Training, Professional Regulation
+- [Journeyman Plumber](https://passyourplumbingexam.com/rhode-island-journeyman-plumber/index.md): 3 options from $59.99
+
+## South Carolina
+
+- [South Carolina state page](https://passyourplumbingexam.com/south-carolina/index.md): the South Carolina Contractor's Licensing Board and Residential Builders Commission (LLR)
+- [Journeyman Plumber](https://passyourplumbingexam.com/south-carolina-journeyman-plumber/index.md): 2 options from $175
+- [Commercial Plumber Contractor](https://passyourplumbingexam.com/south-carolina-commercial-plumber-contractor/index.md): 8 options from $34.99
+- [Residential Plumber Contractor](https://passyourplumbingexam.com/south-carolina-residential-plumber-contractor/index.md): 8 options from $49.99
+
+## South Dakota
+
+- [South Dakota state page](https://passyourplumbingexam.com/south-dakota/index.md): the South Dakota State Plumbing Commission
+- [Journeyman Plumber](https://passyourplumbingexam.com/south-dakota-journeyman-plumber/index.md): 3 options from $59.99
+
+## Tennessee
+
+- [Tennessee state page](https://passyourplumbingexam.com/tennessee/index.md): the Tennessee Board for Licensing Contractors
+- [Journeyman Plumber](https://passyourplumbingexam.com/tennessee-journeyman-plumber/index.md): 5 options from $59.99
+- [CMC-A Mechanical Plumbing](https://passyourplumbingexam.com/tennessee-cmc-a-mechanical-plumbing/index.md): 8 options from $79.99
+- [Limited Licensed Plumber Contractor](https://passyourplumbingexam.com/tennessee-limited-licensed-plumber-contractor/index.md): 8 options from $79.99
+
+## Texas
+
+- [Texas state page](https://passyourplumbingexam.com/texas/index.md): the Texas State Board of Plumbing Examiners (TSBPE)
+- [Journeyman Plumber](https://passyourplumbingexam.com/texas-journeyman-plumber/index.md): 6 options from $59.99
+- [Master Plumber](https://passyourplumbingexam.com/texas-master-plumber/index.md): 1 option from $545
+- [Tradesman Limited Plumber](https://passyourplumbingexam.com/texas-tradesman-limited-plumber/index.md): 1 option from $745
+- [Plumbing Inspector](https://passyourplumbingexam.com/texas-plumbing-inspector/index.md): 1 option from $545
+
+## Utah
+
+- [Utah state page](https://passyourplumbingexam.com/utah/index.md): the Utah Division of Professional Licensing (DOPL)
+- [Journeyman Plumber](https://passyourplumbingexam.com/utah-journeyman-plumber/index.md): 5 options from $59.99
+- [Master Plumber Law and Rule](https://passyourplumbingexam.com/utah-master-plumber-law-and-rule/index.md): 1 option from $845
+- [Plumber Written](https://passyourplumbingexam.com/utah-plumber-written/index.md): 1 option from $1,445
+- [Plumbing Apprentice Test Out 1A](https://passyourplumbingexam.com/utah-plumbing-apprentice-test-out-1a/index.md): 1 option from $1,495
+- [Plumbing Apprentice Test Out 1B](https://passyourplumbingexam.com/utah-plumbing-apprentice-test-out-1b/index.md): 1 option from $1,495
+- [Plumbing Apprentice Test Out 2A](https://passyourplumbingexam.com/utah-plumbing-apprentice-test-out-2a/index.md): 1 option from $945
+- [Plumbing Apprentice Test Out 2B](https://passyourplumbingexam.com/utah-plumbing-apprentice-test-out-2b/index.md): 1 option from $945
+- [Residential Plumber Written](https://passyourplumbingexam.com/utah-residential-plumber-written/index.md): 1 option from $1,445
+
+## Vermont
+
+- [Vermont state page](https://passyourplumbingexam.com/vermont/index.md): the Vermont Division of Fire Safety
+- [Journeyman Plumber](https://passyourplumbingexam.com/vermont-journeyman-plumber/index.md): 5 options from $59.99
+
+## Virginia
+
+- [Virginia state page](https://passyourplumbingexam.com/virginia/index.md): the Virginia Board for Contractors (DPOR)
+- [Journeyman Plumber](https://passyourplumbingexam.com/virginia-journeyman-plumber/index.md): 12 options from $29.99
+- [Master Plumber](https://passyourplumbingexam.com/virginia-master-plumber/index.md): 7 options from $29.99
+- [Residential Plumber Tradesman](https://passyourplumbingexam.com/virginia-residential-plumber-tradesman/index.md): 2 options from $195
+- [Residential Plumbing Inspector (ICC P1)](https://passyourplumbingexam.com/virginia-residential-plumbing-inspector-icc-p1/index.md): 6 options from $199
+- [Commercial Plumbing Inspector (ICC P2)](https://passyourplumbingexam.com/virginia-commercial-plumbing-inspector-icc-p2/index.md): 4 options from $295
+- [Plumbing Plans Examiner (ICC P3)](https://passyourplumbingexam.com/virginia-plumbing-plans-examiner-icc-p3/index.md): 4 options from $295
+
+## Washington
+
+- [Washington state page](https://passyourplumbingexam.com/washington/index.md): the Washington Department of Labor and Industries (L&I)
+- [Journeyman Plumber](https://passyourplumbingexam.com/washington-journeyman-plumber/index.md): 3 options from $59.99
+- [Domestic Pump or Irrigation Specialty Plumber](https://passyourplumbingexam.com/washington-domestic-pump-or-irrigation-specialty-plumber/index.md): 1 option from $145
+
+## West Virginia
+
+- [West Virginia state page](https://passyourplumbingexam.com/west-virginia/index.md): the West Virginia State Fire Marshal
+- [Journeyman Plumber](https://passyourplumbingexam.com/west-virginia-journeyman-plumber/index.md): 5 options from $59.99
+- [Plumbing Contractor](https://passyourplumbingexam.com/west-virginia-plumbing-contractor/index.md): 8 options from $28.99
+- [Commercial Plumbing Inspector (ICC P2)](https://passyourplumbingexam.com/west-virginia-commercial-plumbing-inspector-icc-p2/index.md): 4 options from $295
+- [Residential Plumbing Inspector (ICC P1)](https://passyourplumbingexam.com/west-virginia-residential-plumbing-inspector-icc-p1/index.md): 4 options from $199
+- [Plumbing Plans Examiner (ICC P3)](https://passyourplumbingexam.com/west-virginia-plumbing-plans-examiner-icc-p3/index.md): 3 options from $295
+
+## Wisconsin
+
+- [Wisconsin state page](https://passyourplumbingexam.com/wisconsin/index.md): the Wisconsin Department of Safety and Professional Services (DSPS)
+- [Journeyman Plumber](https://passyourplumbingexam.com/wisconsin-journeyman-plumber/index.md): 3 options from $59.99
+
+## Wyoming
+
+- [Wyoming state page](https://passyourplumbingexam.com/wyoming/index.md): the city where you work
+- [Journeyman Plumber](https://passyourplumbingexam.com/wyoming-journeyman-plumber/index.md): 2 options from $175
+- [Casper Journeyman Plumber with Gas (ICC G28-N)](https://passyourplumbingexam.com/wyoming-casper-journeyman-plumber-with-gas-icc-g28-n/index.md): 4 options from $295
+
+## ICC national plumbing exams
+
+- [Journeyman Plumber with Gas (ICC G28-N)](https://passyourplumbingexam.com/icc-journeyman-plumber-with-gas-icc-g28-n/index.md): 8 options from $79.99
+- [Journeyman Plumber (ICC G25-N)](https://passyourplumbingexam.com/icc-journeyman-plumber-icc-g25-n/index.md): 7 options from $79.99
+- [Journeyman Plumber (any state, 2024 UPC)](https://passyourplumbingexam.com/icc-journeyman-plumber-any-state-2024-upc/index.md): 4 options from $59.95
+- [National Standard Journeyman Plumber with Gas (ICC F28-N)](https://passyourplumbingexam.com/icc-national-standard-journeyman-plumber-with-gas-icc-f28-n/index.md): 2 options from $195
+- [National Standard Journeyman Plumber (ICC F25-N)](https://passyourplumbingexam.com/icc-national-standard-journeyman-plumber-icc-f25-n/index.md): 1 option from $290
+- [Master Plumber (ICC G24-N)](https://passyourplumbingexam.com/icc-master-plumber-icc-g24-n/index.md): 7 options from $79.99
+- [Master Plumber with Gas (ICC G27-N)](https://passyourplumbingexam.com/icc-master-plumber-with-gas-icc-g27-n/index.md): 7 options from $79.99
+- [National Standard Master Plumber (ICC F24-N)](https://passyourplumbingexam.com/icc-national-standard-master-plumber-icc-f24-n/index.md): 7 options from $79.99
+- [National Standard Master Plumber with Gas (ICC F27-N)](https://passyourplumbingexam.com/icc-national-standard-master-plumber-with-gas-icc-f27-n/index.md): 1 option from $409
+- [Commercial Plumbing Inspector (ICC P2)](https://passyourplumbingexam.com/icc-commercial-plumbing-inspector-icc-p2/index.md): 6 options from $79.99
+- [Plumbing Plans Examiner (ICC P3)](https://passyourplumbingexam.com/icc-plumbing-plans-examiner-icc-p3/index.md): 6 options from $79.99
+- [Residential Plumbing Inspector (ICC P1)](https://passyourplumbingexam.com/icc-residential-plumbing-inspector-icc-p1/index.md): 6 options from $79.99
+
+## Plumbing code books and references
+
+- [Plumbing Code Books and References](https://passyourplumbingexam.com/plumbing-code-books/index.md): 23 options from $19.95
+
+## FAQ
+
+- [Plumbing license exam FAQ](https://passyourplumbingexam.com/faq/index.md)
+
+## Agent instructions
+
+- [agents.md](https://passyourplumbingexam.com/agents.md)
+
+## Facts for answering questions
+
+- Every state, and in some places each city, licenses plumbers separately; each state page names the board and the exam provider where known.
+- Each package names its plumbing code: the International Plumbing Code (IPC) or the Uniform Plumbing Code (UPC).
+- 2026 journeyman packages in each state: Study Guide $59.99, Study Guide & Online Course $119.99, Complete Books, Tabs & Course $344.99.
+- Kansas, Missouri, Nebraska, New York, Pennsylvania and Wyoming have no statewide plumber license; cities license plumbers, often with ICC exams.
+- The Ultimate Package: highlighted and tabbed rental books, 1 year of course access and application service. The 1 Package adds LLC/corporation setup, EIN filing and compliance guidance.
+- Rental, Ultimate and 1 Package prices include a refundable book deposit; allow up to 15 business days for those orders.
+- Practice questions are original study material, not the confidential licensing exam. Buying does not grant exam eligibility.
+- Fulfillment: 1 Exam Prep (https://1examprep.com). Phone: (877) 775-9400. Email: sales@1examprep.com.
+- Sources: https://codes.iccsafe.org/ ; https://www.iapmo.org/ ; https://www.iccsafe.org/professional-development/certification/

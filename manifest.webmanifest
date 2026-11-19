@@ -1,0 +1,20 @@
+{
+ "name": "Pass Your Plumbing Exam",
+ "short_name": "Plumbing Exam",
+ "start_url": "./",
+ "display": "browser",
+ "background_color": "#ffffff",
+ "theme_color": "#020c1b",
+ "icons": [
+  {
+   "src": "shared/logo-mark.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "shared/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}

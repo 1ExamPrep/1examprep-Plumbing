@@ -1,0 +1,109 @@
+{
+  "_comment": "Nationwide FAQ for /faq/. Categories -> items of [question, answer]. State and license answers come from tools/plcopy.py and the Shopify descriptions. {ful} becomes the fulfillment store's name.",
+  "categories": [
+    {
+      "name": "How do you get a plumbing license?",
+      "slug": "licensing",
+      "items": [
+        [
+          "Who issues plumbing licenses?",
+          "Each state sets its own rules. Most license plumbers through a state plumbing board or a contractor licensing board, such as the Texas State Board of Plumbing Examiners or the Oklahoma Construction Industries Board. Kansas, Missouri, Nebraska, Pennsylvania and Wyoming leave plumber licensing to cities. Each state page on this site names the board."
+        ],
+        [
+          "What is the difference between a journeyman and a master plumber?",
+          "A journeyman plumber can do plumbing work on their own under the rules of their license. A master plumber can also supervise, pull permits and, in many states, run a plumbing business. Most states require years as a journeyman before you can sit the master exam."
+        ],
+        [
+          "Do I need a separate contractor license?",
+          "In many states, yes. Arizona, California, Florida, North Carolina and Tennessee license plumbing contractors separately from journeyman and master plumbers, and contractor applicants often take a business and law exam too."
+        ],
+        [
+          "Can I use my license in another state?",
+          "Some states have reciprocity agreements for plumbers, but many do not. Check with the board in the state where you want to work before you assume your license transfers."
+        ],
+        [
+          "Does buying a package register me for the exam?",
+          "No. The board approves your application first, then the testing provider, such as PSI, Pearson VUE, Prov or ICC, schedules the exam. A package gets you ready for the test itself."
+        ],
+        [
+          "What are the ICC plumbing exams?",
+          "The International Code Council offers national standard plumber exams (G24, G25, G27, G28 and the F series) that many cities use, plus inspector and plans examiner certifications (P1, P2 and P3)."
+        ]
+      ]
+    },
+    {
+      "name": "How does the plumbing exam work?",
+      "slug": "exam",
+      "items": [
+        [
+          "Does my exam use the IPC or the UPC?",
+          "Your state or city adopts one of them. The International Plumbing Code (IPC) is used in most states; the Uniform Plumbing Code (UPC) is used in states such as California, Washington and Oregon. Every package here names its code in the title."
+        ],
+        [
+          "Is the plumbing exam open book?",
+          "It depends on the exam. Florida contractor and ICC inspector exams allow the listed references, while some journeyman exams are closed book. Your candidate bulletin lists exactly what you can bring."
+        ],
+        [
+          "What topics are on a journeyman plumber exam?",
+          "Expect drainage, waste and vent sizing, water supply and distribution, fixtures and traps, water heaters, backflow prevention, gas piping where the license includes gas, and plumbing math such as fixture units and pipe sizing."
+        ],
+        [
+          "Which code edition should I study?",
+          "The one in your candidate bulletin. The 2026 journeyman packages are built on the 2024 IPC or UPC; packages marked 2021 IPC suit exams that have not moved to the 2024 edition yet."
+        ],
+        [
+          "Is there a practical exam?",
+          "Some states add one. Texas and Massachusetts, for example, test practical skills as well as the written exam. The state page and your bulletin say whether yours does."
+        ]
+      ]
+    },
+    {
+      "name": "How should you study for it?",
+      "slug": "study",
+      "items": [
+        [
+          "How long should I study?",
+          "Most candidates plan six to eight weeks at about an hour a day: learning where things are in the code, working sizing and fixture unit problems, and taking timed practice exams."
+        ],
+        [
+          "Why do highlighted and tabbed books help?",
+          "On an open-book exam you are racing the clock. Tabs and highlights take you straight to the right section, so you spend your time answering instead of searching."
+        ],
+        [
+          "Are these the real exam questions?",
+          "No. Licensing exam questions are confidential. The courses and practice questions are original material written to the same subjects and format, with explanations that point to the code section."
+        ],
+        [
+          "Should I take a live class?",
+          "If you learn better with an instructor and a fixed schedule, yes. Live Virtual Training adds instructor-led sessions on top of the self-study course."
+        ]
+      ]
+    },
+    {
+      "name": "How does ordering work?",
+      "slug": "ordering",
+      "items": [
+        [
+          "Who ships the orders?",
+          "Orders are processed, shipped and supported by {ful}, our fulfillment center. Every Buy now button goes straight to secure checkout there."
+        ],
+        [
+          "How fast does it arrive?",
+          "Online courses and practice questions arrive by email after purchase, so you can start the same day. Book packages ship free by USPS Media Mail; allow up to 15 business days for rental, Ultimate and 1 Package orders."
+        ],
+        [
+          "Do rental books have to go back?",
+          "Yes. Rental books are returned after your exam using the instructions in the box. Rental, Ultimate and 1 Package prices include a refundable book deposit."
+        ],
+        [
+          "Can I return a package?",
+          "Check the refund policy at checkout before you buy. Sales are generally final once books ship or course access starts."
+        ],
+        [
+          "Who do I call with a question?",
+          "Call (877) 775-9400 or email sales@1examprep.com before you order and we will help you pick the right package for your exam."
+        ]
+      ]
+    }
+  ]
+}

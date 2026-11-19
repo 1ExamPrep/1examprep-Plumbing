@@ -1,0 +1,213 @@
+---
+title: Kansas Journeyman Plumber with Gas Complete Book Package
+url: https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/book-package/
+updated: 2026-11-19
+site: Pass Your Plumbing Exam
+description: Complete Book Package for the Kansas Journeyman Plumber with Gas (ICC KGR) exam: every reference book the exam is written to, new and unmarked. $345.
+---
+
+[All licenses](https://passyourplumbingexam.com/) /[Kansas](https://passyourplumbingexam.com/#ks) /[Journeyman Plumber with Gas (ICC KGR)](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/) /Complete Book Package
+
+Journeyman Plumber with Gas (ICC KGR) · Complete Book Package
+
+# Kansas Journeyman Plumber with Gas (ICC - KGR) Exam Book Package
+
+The Kansas Journeyman Plumber with Gas (ICC - KGR) Exam Book Package is every reference book the exam is written to, new and unmarked for the Journeyman Plumber with Gas (ICC KGR) exam (Kansas), at $345, 22% off the $445 list price. Books ship from our fulfillment center, 1 Exam Prep.
+
+$345 (was $445) Save 22% [Buy now, go to checkout](https://1examprep.com/cart/45911243227193:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com)
+
+- Secure checkout, fulfilled by 1 Exam Prep
+- Books ship from our fulfillment center, 1 Exam Prep
+- Questions before you buy? Call [(877) 775-9400](tel:+18777759400)
+
+## Key takeaways
+
+- Complete Book Package: $345, down from $445.
+- For the Journeyman Plumber with Gas (ICC KGR) exam; every reference book the exam is written to, new and unmarked.
+- Kansas has no statewide plumber license; cities and counties license plumbers and many use ICC exams.
+- Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
+
+Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+
+## What does the Complete Book Package include?
+
+- Complete Book Package: every reference book the exam is written to, new and unmarked
+- Written for the Journeyman Plumber with Gas (ICC KGR) exam
+- Books ship from our fulfillment center, 1 Exam Prep
+
+The Complete Book Package costs $345 and is written for the Journeyman Plumber with Gas (ICC KGR) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
+## About this Journeyman Plumber with Gas (ICC KGR) package
+
+Prepare for the **Kansas Journeyman Plumber with Gas (ICC - KGR)** exam with a focused book package built around the exact references you listed: the **International Plumbing Code (IPC), 2018** and the **International Fuel Gas Code (IFGC), 2018**. Since your default rule is that all exams are **open book** unless you say it’s closed book, this package is designed to help you succeed in an open-book environment—where fast navigation, accurate code confirmation, and steady pacing matter just as much as general knowledge.
+
+Journeyman plumbing with gas exams typically test applied understanding. You’re not just recalling facts—you’re interpreting code language and applying it to job scenarios. A question can look simple and still hinge on the detail that changes the answer: a definition, a scope trigger, a “where required” condition, or an exception that modifies the general rule. In open-book testing, the advantage isn’t that you have the book. The advantage is knowing how to use it efficiently: identify the topic, choose the correct code, confirm the controlling language precisely, and move on without losing time.
+
+This Exam Book Package keeps your preparation clean and practical with two references that work together the way plumbers work in real projects—confirm what applies, verify details before you decide, and proceed with confidence. With consistent practice, you’ll build “memory of location,” meaning you’ll know where common topics live in each code. That skill improves both speed and accuracy, which is exactly what open-book exams reward.
+
+If you’re balancing service calls, jobsite schedules, and real-world responsibilities, a tight reference set matters. IPC 2018 and IFGC 2018 give you the framework you need to practice smart: reduce searching, increase correct confirmations, and develop an exam-day workflow you can trust.
+
+## Exam Details
+
+The Exam Book Package is designed to support preparation for the **Kansas Journeyman Plumber with Gas (ICC - KGR)** exam using the reference books listed on this page. Official exam specifications—such as the number of questions, time limit, passing score, exam delivery method, testing provider, and a detailed content outline—were not provided with your request, so they are not included in this section.
+
+What this package supports directly is the performance side of open-book testing with multiple code references:
+
+- **Knowing which code controls the question** (IPC vs. IFGC)
+- **Efficient navigation** so you spend less time searching and more time confirming
+- **Accurate confirmation** of exact code language, including qualifiers and exceptions
+- **Pacing discipline** so one slow lookup doesn’t drain time from the rest of the exam
+
+## Open Book Test
+
+The exam is an **open book** test. Open book becomes an advantage only when you prepare for open-book performance. A timed exam does not reward looking up every question from scratch. It rewards candidates who can recognize what the question is testing, choose the correct code quickly, confirm the controlling language precisely, and move on with steady pace.
+
+**The open-book routine that works for plumbing + fuel gas code exams:**
+
+1. **Label the topic first.** Decide whether the question is plumbing-system focused (fixtures, drains, vents, water supply) or fuel-gas focused (gas piping, appliance connections, combustion/venting concepts).
+2. **Choose the right code first.** Start in **IPC** for plumbing topics and **IFGC** for fuel gas topics.
+3. **Confirm precisely.** Read the controlling section and scan for qualifiers like “where required,” “when,” “if,” and exception language.
+4. **Answer and move on.** Protect your pacing by confirming what matters and continuing forward.
+
+When you train this routine repeatedly, you build “memory of location,” which is one of the biggest advantages you can develop for open-book testing.
+
+## Licensing Steps
+
+Specific administrative steps, eligibility requirements, fees, or renewal rules for this Kansas credential were not provided with your request, so they are not included in this section. Below is a practical preparation workflow many candidates use for open-book, multi-reference trade exams:
+
+1. **Organize your reference set.** Keep IPC 2018 and IFGC 2018 together so your practice matches exam behavior.
+2. **Learn each code’s structure.** Navigation speed comes from understanding how chapters and sections are organized.
+3. **Train “which code first?” decisions.** Practice choosing IPC or IFGC before you search—strong first choices save time.
+4. **Practice scenario questions.** Journeyman-level questions are applied—confirm the requirement and apply it to the condition described.
+5. **Add timed practice.** Open-book exams still require pacing. Learn what efficient confirmation feels like.
+6. **Review misses by learning location.** For every missed question, locate the supporting section so future confirmations become faster.
+
+## State Requirements
+
+State or local requirements for the Kansas Journeyman Plumber with Gas (ICC - KGR) credential were not provided with your request, so they are not included in this section. This product page focuses on the reference books you listed and open-book preparation strategies designed to help you use those references efficiently.
+
+In plumbing and gas work, the habit that separates strong tradespeople is disciplined confirmation: identify the issue, confirm the controlling requirement, and apply it correctly. Building that same habit during exam prep helps you study more effectively and feel more prepared on test day.
+
+## Reference Books
+
+- **International Plumbing Code, 2018**
+Your primary plumbing reference for confirming code requirements related to plumbing systems, fixtures, water supply, drainage, venting concepts, and installation-related language used in scenario questions.
+- **International Fuel Gas Code, 2018**
+Your primary fuel gas reference for confirming code requirements related to fuel gas piping, related installation concepts, and code language used in gas-focused scenarios.
+
+## Test Information and Study Materials
+
+The most effective way to prepare for an open-book plumbing and fuel gas exam is performance-based practice. Reading helps, but readiness grows fastest when you repeatedly practice the same actions you’ll perform during the test: identify the topic, choose the correct code, locate the controlling section, confirm the exact requirement, and move on with steady pacing.
+
+**1) Build a “two-code decision” habit**
+ A common time-waster is starting in the wrong book. Train your first decision:
+
+- **IPC 2018** for plumbing system topics and general plumbing requirements.
+- **IFGC 2018** for fuel gas topics and gas-related installation questions.
+
+**2) Learn each code’s structure instead of trying to memorize everything**
+ Open-book exams reward navigation. Spend early sessions learning how IPC and IFGC are organized so you can move intentionally and confirm faster.
+
+**3) Practice confirm-and-move to protect pacing**
+ Open book doesn’t mean research every question. Narrow down the likely answer first, confirm the key language, then move on. This protects pace across the full exam.
+
+**4) Train qualifier and exception awareness**
+ Many questions are decided by the words that change the rule—conditions, triggers, and exceptions. During confirmation, scan for:
+
+- **Conditions:** “when,” “where,” “if,” and similar trigger language
+- **Obligation terms:** “shall” and requirement language
+- **Exceptions:** text that modifies or removes a general requirement
+
+**5) Use scenario practice to build job-ready judgment**
+ Plumbing and gas work is applied. Practice using a repeatable workflow:
+
+1. Identify the issue
+2. Choose IPC or IFGC
+3. Locate the most relevant section
+4. Confirm the key requirement
+5. Apply it to the scenario without adding assumptions
+
+**6) Review missed questions by learning location**
+ When you miss a practice question, find the supporting section and learn where it lives. Over time, you build “memory of location,” which improves both speed and confidence in open-book testing.
+
+**A practical weekly rhythm for open-book trade exams:**
+
+- **Session 1:** Navigation drills (IPC + IFGC)
+- **Session 2:** Scenario practice (choose code → locate → confirm → apply)
+- **Session 3:** Timed set (pacing + controlled lookups)
+- **Session 4:** Review misses (learn exact locations)
+
+## How Pass Your Plumbing Exam Helps You Reach Your Goal
+
+Pass Your Plumbing Exam supports your Kansas Journeyman Plumber with Gas (ICC - KGR) goal by helping you prepare with structure instead of guesswork. Our approach is designed for open-book, code-based testing where performance matters: organized study guidance, practice-oriented preparation, and a repeatable system for navigating IPC 2018 and IFGC 2018 efficiently.
+
+Rather than relying on passive reading, Pass Your Plumbing Exam emphasizes the habits that matter on exam day: recognizing what a question is testing, choosing the correct code first, confirming requirements accurately (including conditions and exceptions), and maintaining steady pace. You build confidence through repetition and a clear study structure—without guaranteeing exam outcomes.
+
+### FAQ: What books are included in this ICC - KGR Exam Book Package?
+
+This package includes the **International Plumbing Code, 2018** and the **International Fuel Gas Code, 2018**.
+
+### FAQ: How do I know which book to start with?
+
+Start with IPC for plumbing-system questions and IFGC for fuel gas questions. Training that first decision is one of the fastest ways to improve speed and reduce time loss.
+
+### FAQ: Does this Exam Book Package include an online course?
+
+This product is an **Exam Book Package**. Course access is included only when a product title or listing explicitly states that a course is included.
+
+### FAQ: Does this page include official exam specifications or licensing details?
+
+No. Official exam specifications and licensing details were not provided with your request, so they are not included here.
+
+## How does the Journeyman Plumber with Gas (ICC KGR) exam work?
+
+The Journeyman Plumber with Gas (ICC KGR) license comes from the city or county where you work. ICC gives the exam. The board approves your application first; then you schedule the exam and bring only the references the candidate bulletin allows.
+
+- Kansas has no statewide plumber license; cities and counties license plumbers and many use ICC exams.
+- Kansas prep comes in two exam versions, ICC 557/560 and KGF/KGR, so check which one your city uses before you order.
+
+## Other Journeyman Plumber with Gas (ICC KGR) options
+
+[**Online Practice Questions** Kansas Journeyman Plumber with Gas (ICC - KGR) - Online Prac… $79.99](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/online-practice-exams/) · [**Online Exam Prep Course** Kansas Journeyman Plumber with Gas (ICC - KGR) Exam - Online… $295](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/online-course/) · [**Live Virtual Training** Kansas Journeyman Plumber with Gas (ICC - KGR) Exam Prep - L… $495](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/live-training/) · [**Highlighted and Tabbed Books** Kansas Journeyman Plumber with Gas (ICC - KGR) Highlighted &… $545](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/highlighted-tabbed/) · [**Books and Courses Rental** Kansas Journeyman Plumber with Gas (ICC - KGR) - Books & Cou… $840](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/rental-package/) · [**Ultimate Exam Prep Package** Kansas Journeyman Plumber with Gas (ICC - KGR) Ultimate Exam… $1,265](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/ultimate-rental/) [Compare every Journeyman Plumber with Gas (ICC KGR) package →](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/) [Choose a different license →](https://passyourplumbingexam.com/)
+
+### More Kansas licenses
+[All Kansas licenses](https://passyourplumbingexam.com/kansas/) · [Journeyman Plumber with Gas (ICC 560)](https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-560/) · [Journeyman Plumber](https://passyourplumbingexam.com/kansas-journeyman-plumber/) · [Master Plumber with Gas Contractor (ICC 557)](https://passyourplumbingexam.com/kansas-master-plumber-with-gas-contractor-icc-557/) · [Master Plumber with Gas Contractor (ICC KGF)](https://passyourplumbingexam.com/kansas-master-plumber-with-gas-contractor-icc-kgf/) · [Plumbing exam FAQ](https://passyourplumbingexam.com/faq/) · [Study tips](https://passyourplumbingexam.com/blog/)
+
+## Questions before you buy
+
+### How much is the Kansas Journeyman Plumber with Gas (ICC - KGR) Exam Book Package?
+
+$345. The price at checkout is the one that applies, and it is shown before you pay.
+
+### What is included?
+
+Complete Book Package: every reference book the exam is written to, new and unmarked. Books ship from our fulfillment center, 1 Exam Prep.
+
+### Is the Journeyman Plumber with Gas (ICC KGR) exam open book?
+
+It depends on the exam. Many plumbing trade exams allow the code book, but some are closed book. Your candidate bulletin lists the references allowed; if books are allowed, highlighted and tabbed sets save the most time.
+
+### Who issues the license or certification?
+
+It comes from the city or county where you work. Buying study material does not register you or make you eligible to test.
+
+### Are these the real exam questions?
+
+No. Licensing exam questions are confidential. Courses and practice exams are original material written to the same subjects and format.
+
+### How fast can I start?
+
+Online courses and practice exams arrive by email after purchase. Books ship from our fulfillment center, 1 Exam Prep; shipping options are shown at checkout.
+
+## Sources
+
+- [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
+- [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
+
+Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+
+---
+
+Source: https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-kgr/book-package/  
+Publisher: Pass Your Plumbing Exam. Orders are fulfilled by 1 Exam Prep (https://1examprep.com). Phone (877) 775-9400, email sales@1examprep.com.  
+Prices change; the product page and checkout show the current price.
