@@ -1,0 +1,56 @@
+name: Pull plumbing catalog
+
+# Reads every plumbing product from the public 1examprep.com storefront feed (no token needed) and commits
+# shared/catalog.js, store/products-full.json and tools/catalog-titles.txt when anything changed.
+# The commit then starts "Build site", which regenerates the pages.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "tools/pull_storefront.py"
+      - "tools/build_catalog.py"
+      - ".github/workflows/pull-catalog.yml"
+  schedule:
+    - cron: "17 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-site
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull catalog
+        run: |
+          mkdir -p shared store
+          set +e
+          python3 tools/pull_storefront.py
+          code=$?
+          set -e
+          if [ "$code" != "0" ] && [ "$code" != "3" ]; then exit $code; fi
+      - name: Build pages
+        run: |
+          if [ -f tools/plclass.py ]; then pip install -q pillow && python3 build.py; else echo "No classifier yet, catalog only"; fi
+      - name: Commit
+        run: |
+          git config user.name "site-build[bot]"
+          git config user.email "site-build@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
+          git commit -m "Pull plumbing catalog ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" || true
+          done
+          exit 1
