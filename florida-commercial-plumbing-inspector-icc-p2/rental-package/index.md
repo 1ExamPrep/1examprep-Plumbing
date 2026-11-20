@@ -1,7 +1,7 @@
 ---
 title: FL Commercial Plumbing Inspector Books and Courses Rental
 url: https://passyourplumbingexam.com/florida-commercial-plumbing-inspector-icc-p2/rental-package/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Florida Commercial Plumbing Inspector (ICC P2) exam: rental books plus the online course. $1,325. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,325 (was $1,625) Save 18% [Buy now, go to checkout](https://1examprep.com/car
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -269,7 +269,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

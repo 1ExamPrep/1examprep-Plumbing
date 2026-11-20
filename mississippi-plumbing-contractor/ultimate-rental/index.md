@@ -1,7 +1,7 @@
 ---
 title: Mississippi Plumbing Contractor Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/mississippi-plumbing-contractor/ultimate-rental/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Mississippi Plumbing Contractor exam: tabbed rental books, a year of the course and application help. $1,395. One-click.
 ---
@@ -27,7 +27,7 @@ $1,395 (was $1,695) Save 18% [Buy now, go to checkout](https://1examprep.com/car
 - The Mississippi State Board of Contractors licenses plumbing contractors, with a separate residential class.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -298,7 +298,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [MS Board of Contractors (official site)](https://www.msboc.us/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

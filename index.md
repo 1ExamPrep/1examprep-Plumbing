@@ -1,7 +1,7 @@
 ---
 title: Plumbing Exam Prep by State | Pass Your Plumbing Exam
 url: https://passyourplumbingexam.com/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Plumbing exam prep for 163 licenses in 46 states and DC: 2026 study guides on the 2024 IPC or UPC, tabbed code books, courses and ICC exam prep.
 ---
@@ -31,7 +31,7 @@ Tap your state. Each state page names the board that licenses plumbers, explains
 - Some states, such as Kansas, Missouri, Pennsylvania and Wyoming, leave plumber licensing to cities, which often use ICC exams.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What do plumbers buy most?
 
@@ -316,7 +316,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ## Your exam date is not moving. *Start today.*
 

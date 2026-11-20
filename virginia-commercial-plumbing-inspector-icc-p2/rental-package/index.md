@@ -1,7 +1,7 @@
 ---
 title: VA Commercial Plumbing Inspector Books and Courses Rental
 url: https://passyourplumbingexam.com/virginia-commercial-plumbing-inspector-icc-p2/rental-package/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Virginia Commercial Plumbing Inspector (ICC P2) exam: rental books plus the online course. $940. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $940 (was $1,240) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/
 - Virginia licenses journeyman, master and residential plumbing tradesmen through DPOR; PSI gives the exams.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -287,7 +287,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Virginia DPOR (official site)](https://www.dpor.virginia.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: MD Complete Book Package Master Plumber / Master Gasfitter
 url: https://passyourplumbingexam.com/maryland-master-plumber-master-gasfitter-contractor/book-package/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Maryland Master Plumber / Master Gasfitter Contractor exam: every reference book the exam is written to, new and unmarked.
 ---
@@ -27,7 +27,7 @@ $495 (was $595) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/50
 - The Maryland State Board of Plumbing licenses journeyman and master plumbers and gas fitters.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -253,7 +253,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MD Board of Plumbing (official site)](https://www.labor.maryland.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

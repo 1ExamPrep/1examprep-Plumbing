@@ -1,7 +1,7 @@
 ---
 title: ICC Journeyman Plumber with Gas Online Exam Prep Course
 url: https://passyourplumbingexam.com/icc-journeyman-plumber-with-gas-icc-g28-n/online-course/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Online Exam Prep Course for the plumbing Journeyman Plumber with Gas (ICC G28-N) exam: a self-study online course built around the exam. $409. One-click.
 ---
@@ -27,7 +27,7 @@ $409 (was $455) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/39
 - ICC national standard plumber exams (G24, G25, G27, G28 and the F series) are used by many cities and counties that license plumbers.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -103,7 +103,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
     - [ICC (official site)](https://www.iccsafe.org/)
     - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
     - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

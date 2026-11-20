@@ -1,7 +1,7 @@
 ---
 title: AZ The 1 Package Plumbing, Including Solar Commercial
 url: https://passyourplumbingexam.com/arizona-plumbing-including-solar-commercial-contractor-c-77/the-1-package/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: The 1 Package (all-inclusive) for the Arizona Plumbing, Including Solar Commercial Contractor (C-77) exam: the Ultimate package plus LLC setup, EIN filing.
 ---
@@ -27,7 +27,7 @@ $4,465 (was $4,965) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - The Arizona Registrar of Contractors licenses plumbing contractors in commercial (C-37), dual (CR-37) and residential (R-37R) classes, plus solar plumbing classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -344,7 +344,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

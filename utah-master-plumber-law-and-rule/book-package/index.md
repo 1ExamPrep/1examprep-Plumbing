@@ -1,7 +1,7 @@
 ---
 title: Utah Master Plumber Law and Rule Complete Book Package
 url: https://passyourplumbingexam.com/utah-master-plumber-law-and-rule/book-package/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Utah Master Plumber Law and Rule exam: every reference book the exam is written to, new and unmarked. $845. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $845 (was $945) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Utah DOPL licenses journeyman, residential journeyman and master plumbers, and master plumbers take a law and rule exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -347,7 +347,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Utah DOPL (official site)](https://dopl.utah.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

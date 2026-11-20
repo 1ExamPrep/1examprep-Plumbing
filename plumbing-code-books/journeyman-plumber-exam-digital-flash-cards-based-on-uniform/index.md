@@ -1,7 +1,7 @@
 ---
 title: Journeyman Plumber Exam Digital Flash Cards Based on Uniform
 url: https://passyourplumbingexam.com/plumbing-code-books/journeyman-plumber-exam-digital-flash-cards-based-on-uniform/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Flash Cards for the plumbing Plumbing Code Books and References exam: study flash cards for quick review. $45. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $45 (was $55) Save 18% [Buy now, go to checkout](https://1examprep.com/cart/4439
 - These code books and references show up on many plumbing exam reference lists.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Flash Cards include?
 
@@ -108,7 +108,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

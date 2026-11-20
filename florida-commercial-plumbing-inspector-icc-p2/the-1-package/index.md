@@ -1,7 +1,7 @@
 ---
 title: Florida Commercial Plumbing Inspector (ICC P2) The 1 Package
 url: https://passyourplumbingexam.com/florida-commercial-plumbing-inspector-icc-p2/the-1-package/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: The 1 Package (all-inclusive) for the Florida Commercial Plumbing Inspector (ICC P2) exam: the Ultimate package plus LLC setup, EIN filing and compliance.
 ---
@@ -27,7 +27,7 @@ $3,025 (was $3,225) Save 6% [Buy now, go to checkout](https://1examprep.com/cart
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -240,7 +240,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

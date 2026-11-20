@@ -1,7 +1,7 @@
 ---
 title: South Carolina Residential Plumber Contractor The 1 Package
 url: https://passyourplumbingexam.com/south-carolina-residential-plumber-contractor/the-1-package/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: The 1 Package (all-inclusive) for the South Carolina Residential Plumber Contractor exam: the Ultimate package plus LLC setup, EIN filing and compliance.
 ---
@@ -27,7 +27,7 @@ $2,375 (was $2,875) Save 17% [Buy now, go to checkout](https://1examprep.com/car
 - South Carolina licenses commercial plumbing contractors through the Contractor's Licensing Board and residential plumbers through the Residential Builders Commission.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -239,7 +239,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [SC LLR (official site)](https://llr.sc.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

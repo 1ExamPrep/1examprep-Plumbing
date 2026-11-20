@@ -1,7 +1,7 @@
 ---
 title: KS Journeyman Plumber with Gas Highlighted and Tabbed Books
 url: https://passyourplumbingexam.com/kansas-journeyman-plumber-with-gas-icc-560/highlighted-tabbed/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Kansas Journeyman Plumber with Gas (ICC 560) exam: the reference books already highlighted and tabbed. $545. One-click.
 ---
@@ -27,7 +27,7 @@ $545 (was $745) Save 27% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Kansas has no statewide plumber license; cities and counties license plumbers and many use ICC exams.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -215,7 +215,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

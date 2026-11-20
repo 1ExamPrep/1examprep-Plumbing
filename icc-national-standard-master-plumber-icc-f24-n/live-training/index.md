@@ -1,7 +1,7 @@
 ---
 title: ICC National Standard Master Plumber Live Virtual Training
 url: https://passyourplumbingexam.com/icc-national-standard-master-plumber-icc-f24-n/live-training/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the plumbing National Standard Master Plumber (ICC F24-N) exam: live virtual classes with an instructor plus the self-study course.
 ---
@@ -27,7 +27,7 @@ $395 (was $595) Save 34% [Buy now, go to checkout](https://1examprep.com/cart/46
 - ICC national standard plumber exams (G24, G25, G27, G28 and the F series) are used by many cities and counties that license plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -272,7 +272,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

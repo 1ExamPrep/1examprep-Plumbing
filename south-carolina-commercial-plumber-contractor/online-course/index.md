@@ -1,7 +1,7 @@
 ---
 title: SC Commercial Plumber Contractor Online Exam Prep Course
 url: https://passyourplumbingexam.com/south-carolina-commercial-plumber-contractor/online-course/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Online Exam Prep Course for the South Carolina Commercial Plumber Contractor exam: a self-study online course built around the exam. $295. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/32
 - South Carolina licenses commercial plumbing contractors through the Contractor's Licensing Board and residential plumbers through the Residential Builders Commission.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -256,7 +256,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [SC LLR (official site)](https://llr.sc.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

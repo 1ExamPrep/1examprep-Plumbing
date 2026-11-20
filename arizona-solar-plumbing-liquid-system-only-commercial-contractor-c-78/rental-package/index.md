@@ -1,7 +1,7 @@
 ---
 title: Arizona C-78 Books and Courses Rental
 url: https://passyourplumbingexam.com/arizona-solar-plumbing-liquid-system-only-commercial-contractor-c-78/rental-package/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Arizona Solar Plumbing, Liquid System Only Commercial Contractor (C-78) exam: rental books plus the online course. $1,290.
 ---
@@ -27,7 +27,7 @@ $1,290 (was $1,590) Save 19% [Buy now, go to checkout](https://1examprep.com/car
 - The Arizona Registrar of Contractors licenses plumbing contractors in commercial (C-37), dual (CR-37) and residential (R-37R) classes, plus solar plumbing classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -242,7 +242,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

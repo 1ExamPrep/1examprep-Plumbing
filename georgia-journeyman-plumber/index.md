@@ -1,7 +1,7 @@
 ---
 title: Georgia Journeyman Plumber Exam Prep
 url: https://passyourplumbingexam.com/georgia-journeyman-plumber/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Journeyman Plumber exam prep for Georgia: 10 options from $59.99 to $2,290, including books and courses rental, complete book package, complete books, tabs.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Georgia candidates also study the NASCLA business and law guide written for the Georgia board.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## 10 Journeyman Plumber packages
 
@@ -217,7 +217,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [GA Plumbers Division (official site)](https://sos.ga.gov/state-construction-industry-licensing-board)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

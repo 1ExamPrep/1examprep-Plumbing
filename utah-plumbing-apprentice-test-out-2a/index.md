@@ -1,7 +1,7 @@
 ---
 title: Utah Plumbing Apprentice Test Out 2A Exam Prep
 url: https://passyourplumbingexam.com/utah-plumbing-apprentice-test-out-2a/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Plumbing Apprentice Test Out 2A exam prep for Utah: 1 option at $945, including complete book package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Utah apprentices can test out of training levels 1A to 2B with their own exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Plumbing Apprentice Test Out 2A package
 
@@ -139,7 +139,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Utah DOPL (official site)](https://dopl.utah.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

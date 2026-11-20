@@ -1,7 +1,7 @@
 ---
 title: CA Plumbing (C-36) Contractor Online Exam Prep Course
 url: https://passyourplumbingexam.com/california-plumbing-c-36-contractor/online-course-4/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Online Exam Prep Course for the California Plumbing (C-36) Contractor exam: a self-study online course built around the exam. $79.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $149.95) Save 47% [Buy now, go to checkout](https://1examprep.com/ca
 - The CSLB licenses C-36 plumbing contractors; applicants take the Law and Business exam as well as the trade exam.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -277,7 +277,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [CSLB (official site)](https://www.cslb.ca.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

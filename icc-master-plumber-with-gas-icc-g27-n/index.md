@@ -1,7 +1,7 @@
 ---
 title: ICC Master Plumber with Gas (ICC G27-N) Exam Prep
 url: https://passyourplumbingexam.com/icc-master-plumber-with-gas-icc-g27-n/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Master Plumber with Gas (ICC G27-N) exam prep for ICC national plumbing exams: 7 options from $79.99 to $790, including books and courses rental, complete.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - ICC inspector and plans examiner certifications (P1, P2, P3) are open book on the code editions listed in the exam bulletin.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## 7 Master Plumber with Gas (ICC G27-N) packages
 
@@ -195,7 +195,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

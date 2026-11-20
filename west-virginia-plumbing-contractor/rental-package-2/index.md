@@ -1,7 +1,7 @@
 ---
 title: West Virginia Plumbing Contractor Books and Courses Rental
 url: https://passyourplumbingexam.com/west-virginia-plumbing-contractor/rental-package-2/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the West Virginia Plumbing Contractor exam: rental books plus the online course. $1,495. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,495 (was $1,895) Save 21% [Buy now, go to checkout](https://1examprep.com/car
 - The West Virginia State Fire Marshal licenses plumbers; plumbing contractors also hold a West Virginia contractor license.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -310,7 +310,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [WV State Fire Marshal (official site)](https://firemarshal.wv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Plumbing License Exam Blog: Study Tips and State Rules
 url: https://passyourplumbingexam.com/blog/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Study plans, state plumbing licensing rules and exam strategy for plumber and plumbing contractor exams, from Pass Your Plumbing Exam.
 ---
@@ -19,7 +19,7 @@ This blog has study plans, state licensing rules and exam strategy for plumbing 
 - Exam prep for 163 plumbing licenses in 46 states and DC, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourplumbingexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 
@@ -94,7 +94,7 @@ Exam prep for plumber, plumbing contractor and inspector licenses across the US.
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

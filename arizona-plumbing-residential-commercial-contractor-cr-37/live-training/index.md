@@ -1,7 +1,7 @@
 ---
 title: Arizona CR-37 Live Virtual Training
 url: https://passyourplumbingexam.com/arizona-plumbing-residential-commercial-contractor-cr-37/live-training/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the Arizona Plumbing Residential / Commercial Contractor (CR-37) exam: live virtual classes with an instructor plus the self-study.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Arizona Registrar of Contractors licenses plumbing contractors in commercial (C-37), dual (CR-37) and residential (R-37R) classes, plus solar plumbing classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -367,7 +367,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

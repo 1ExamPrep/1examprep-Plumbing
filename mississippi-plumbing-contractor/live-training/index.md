@@ -1,7 +1,7 @@
 ---
 title: Mississippi Plumbing Contractor Live Virtual Training
 url: https://passyourplumbingexam.com/mississippi-plumbing-contractor/live-training/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the Mississippi Plumbing Contractor exam: live virtual classes with an instructor plus the self-study course. $495. One-click.
 ---
@@ -27,7 +27,7 @@ $495 (was $695) Save 29% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Mississippi State Board of Contractors licenses plumbing contractors, with a separate residential class.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -265,7 +265,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MS Board of Contractors (official site)](https://www.msboc.us/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

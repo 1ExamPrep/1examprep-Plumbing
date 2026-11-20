@@ -1,7 +1,7 @@
 ---
 title: Maryland Journeyman Plumber Exam Prep Package (2021 IPC)
 url: https://passyourplumbingexam.com/maryland-journeyman-plumber/exam-prep-2021/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Exam Prep Package (2021 IPC) for the Maryland Journeyman Plumber exam: the exam prep package written to the 2021 IPC. $175. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $175 (was $195) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/40
 - Check the code edition in your candidate bulletin: many exams now use the 2024 editions, which the 2026 packages cover.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package (2021 IPC) include?
 
@@ -135,7 +135,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MD Board of Plumbing (official site)](https://www.labor.maryland.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

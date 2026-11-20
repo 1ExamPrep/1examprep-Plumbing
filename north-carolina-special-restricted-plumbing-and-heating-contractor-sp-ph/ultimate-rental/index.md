@@ -1,7 +1,7 @@
 ---
 title: North Carolina SP-PH Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/north-carolina-special-restricted-plumbing-and-heating-contractor-sp-ph/ultimate-rental/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the North Carolina Special Restricted Plumbing and Heating Contractor (SP-PH) exam: tabbed rental books, a year of the course.
 ---
@@ -27,7 +27,7 @@ $1,415 (was $1,815) Save 22% [Buy now, go to checkout](https://1examprep.com/car
 - North Carolina licenses plumbing contractors in Class I and Class II, plus plumbing technicians and restricted limited and special restricted classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -267,7 +267,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

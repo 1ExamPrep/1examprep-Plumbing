@@ -1,7 +1,7 @@
 ---
 title: NC Restricted Limited Plumbing Contractor Exam Prep
 url: https://passyourplumbingexam.com/north-carolina-restricted-limited-plumbing-contractor/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Restricted Limited Plumbing Contractor exam prep for North Carolina: 8 options from $79.99 to $2,355, including books and courses rental, complete book.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Each North Carolina class has its own exam, and the SP-PH exam has exam-room book packages.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Restricted Limited Plumbing Contractor packages
 
@@ -200,7 +200,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

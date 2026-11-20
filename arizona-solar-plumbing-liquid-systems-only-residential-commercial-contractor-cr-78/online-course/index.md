@@ -1,7 +1,7 @@
 ---
 title: Arizona CR-78 Online Exam Prep Course
 url: https://passyourplumbingexam.com/arizona-solar-plumbing-liquid-systems-only-residential-commercial-contractor-cr-78/online-course/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Online Exam Prep Course for the Arizona Solar Plumbing, Liquid Systems Only Residential / Commercial Contractor (CR-78) exam: a self-study online course.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Arizona Registrar of Contractors licenses plumbing contractors in commercial (C-37), dual (CR-37) and residential (R-37R) classes, plus solar plumbing classes.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -239,7 +239,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

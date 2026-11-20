@@ -1,7 +1,7 @@
 ---
 title: MO Springfield Master Plumber Online Practice Questions
 url: https://passyourplumbingexam.com/missouri-springfield-master-plumber-icc-w24/online-practice-exams/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Online Practice Questions for the Missouri Springfield Master Plumber (ICC W24) exam: online practice questions with explanations. $79.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $120) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/
 - Missouri has no statewide plumber license; cities such as Springfield and Kansas City license plumbers.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -457,7 +457,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

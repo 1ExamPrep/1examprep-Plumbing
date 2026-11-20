@@ -1,7 +1,7 @@
 ---
 title: New Mexico Plumbing Inspector Live Virtual Training
 url: https://passyourplumbingexam.com/new-mexico-plumbing-inspector/live-training/
-updated: 2026-11-19
+updated: 2026-11-20
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the New Mexico Plumbing Inspector exam: live virtual classes with an instructor plus the self-study course. $595. One-click.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - The New Mexico Construction Industries Division licenses MM-1 plumbing contractors and certifies journeyman plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 19, 2026 · prices checked against the 1 Exam Prep store
+Updated November 20, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -283,7 +283,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NM CID (official site)](https://www.rld.nm.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 19, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
