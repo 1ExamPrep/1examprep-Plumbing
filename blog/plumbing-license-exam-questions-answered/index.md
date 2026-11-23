@@ -102,6 +102,19 @@ You can retake it. Most boards allow a retake after a short waiting period, with
 
 Sometimes. A few states have reciprocity agreements that let a licensed plumber skip some or all of the exam, usually if the exams are similar and the license is in good standing. Many do not, so you apply and test in the new state, though your experience still counts toward its hours. The ICC also offers national plumbing exams that some cities and states accept. Check the new state's board before you move or bid work there.
 
+## Where can you read about other licenses?
+
+Licensing rules change from state to state and trade to trade, so we answer the most searched questions for each one in its own post. If you work across state lines or hold more than one trade license, these companion posts cover the other exams our sites prepare you for:
+
+- [Texas contractor license: 15 questions answered](https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/)
+- [Virginia contractor license: 15 questions answered](https://passyourvirginiacontractorexam.com/blog/virginia-contractor-license-questions-answered/)
+- [Nevada contractor license: 15 questions answered](https://passyournevadacontractorexam.com/blog/nevada-contractor-license-questions-answered/)
+- [Mississippi contractor license: 15 questions answered](https://passyourmississippicontractorexam.com/blog/mississippi-contractor-license-questions-answered/)
+- [Florida contractor exam: 15 questions answered](https://passyourfloridacontractorexam.com/blog/florida-contractor-exam-questions-answered/)
+- [Master electrician exam: 15 questions answered](https://passyourmasterelectricianexam.com/blog/master-electrician-exam-questions-answered/)
+- [HVAC license exam: 15 questions answered](https://passyourhvacexam.com/blog/hvac-license-exam-questions-answered/)
+- [NASCLA exam: 15 questions answered](https://passyournasclaexam.com/blog/nascla-exam-questions-answered/)
+
 ## Frequently asked questions
 
 Quick answers to a few more questions people ask about the exam and license.
