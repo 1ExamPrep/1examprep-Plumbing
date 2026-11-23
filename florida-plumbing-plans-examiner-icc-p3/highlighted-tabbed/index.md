@@ -1,7 +1,7 @@
 ---
 title: Florida Plumbing Plans Examiner Highlighted and Tabbed Books
 url: https://passyourplumbingexam.com/florida-plumbing-plans-examiner-icc-p3/highlighted-tabbed/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Florida Plumbing Plans Examiner (ICC P3) exam: the reference books already highlighted and tabbed. $795. One-click.
 ---
@@ -27,7 +27,7 @@ $795 (was $995) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -207,7 +207,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

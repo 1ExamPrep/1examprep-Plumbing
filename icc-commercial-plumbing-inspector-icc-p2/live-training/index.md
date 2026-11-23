@@ -1,7 +1,7 @@
 ---
 title: ICC Commercial Plumbing Inspector Live Virtual Training
 url: https://passyourplumbingexam.com/icc-commercial-plumbing-inspector-icc-p2/live-training/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the plumbing Commercial Plumbing Inspector (ICC P2) exam: live virtual classes with an instructor plus the self-study course. $595.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - ICC national standard plumber exams (G24, G25, G27, G28 and the F series) are used by many cities and counties that license plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -275,7 +275,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

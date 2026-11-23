@@ -1,7 +1,7 @@
 ---
 title: Oklahoma Plumbing Business and Law Reference Book
 url: https://passyourplumbingexam.com/oklahoma-plumbing-business-and-law/reference-book/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Reference Book for the Oklahoma Plumbing Business and Law exam: a code book or reference used on plumbing licensing exams. $599.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $599.99 (was $699) Save 14% [Buy now, go to checkout](https://1examprep.com/cart
 - The Oklahoma Construction Industries Board licenses plumbing and natural gas contractors and journeymen, including residential classes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Reference Book include?
 
@@ -279,7 +279,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

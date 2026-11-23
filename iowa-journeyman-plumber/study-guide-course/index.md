@@ -1,7 +1,7 @@
 ---
 title: Iowa Journeyman Plumber Study Guide and Online Course (2024)
 url: https://passyourplumbingexam.com/iowa-journeyman-plumber/study-guide-course/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Study Guide and Online Course for the Iowa Journeyman Plumber exam: the 2026 study guide plus the online course. $119.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $119.99 (was $150) Save 20% [Buy now, go to checkout](https://1examprep.com/cart
 - Check the code edition in your candidate bulletin: many exams now use the 2024 editions, which the 2026 packages cover.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide and Online Course include?
 
@@ -165,7 +165,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Iowa PMSB (official site)](https://dial.iowa.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

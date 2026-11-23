@@ -1,7 +1,7 @@
 ---
 title: Georgia Journeyman Plumber Highlighted and Tabbed Books
 url: https://passyourplumbingexam.com/georgia-journeyman-plumber/highlighted-tabbed/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Georgia Journeyman Plumber exam: the reference books already highlighted and tabbed. $1,995. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,995 (was $2,395) Save 17% [Buy now, go to checkout](https://1examprep.com/car
 - Georgia licenses master plumbers in Class I (Restricted) and Class II (Unrestricted), plus journeyman plumbers.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -318,7 +318,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [GA Plumbers Division (official site)](https://sos.ga.gov/state-construction-industry-licensing-board)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

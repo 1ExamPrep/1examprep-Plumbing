@@ -1,7 +1,7 @@
 ---
 title: SC Commercial Plumber Contractor Books and Courses Rental
 url: https://passyourplumbingexam.com/south-carolina-commercial-plumber-contractor/rental-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the South Carolina Commercial Plumber Contractor exam: rental books plus the online course. $1,180. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,180 (was $1,480) Save 20% [Buy now, go to checkout](https://1examprep.com/car
 - South Carolina licenses commercial plumbing contractors through the Contractor's Licensing Board and residential plumbers through the Residential Builders Commission.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -253,7 +253,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [SC LLR (official site)](https://llr.sc.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

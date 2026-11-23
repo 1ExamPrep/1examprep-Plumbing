@@ -1,7 +1,7 @@
 ---
 title: New York Master Plumber Exam Prep
 url: https://passyourplumbingexam.com/new-york-master-plumber/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Master Plumber exam prep for New York: 1 option at $445, including complete book package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Check your city's exam rules before you order.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Master Plumber package
 
@@ -133,7 +133,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Licensing office (official site)](https://www.nyc.gov/site/buildings/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

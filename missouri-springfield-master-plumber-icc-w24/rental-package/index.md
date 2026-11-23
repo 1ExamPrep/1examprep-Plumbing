@@ -1,7 +1,7 @@
 ---
 title: Missouri Springfield Master Plumber Books and Courses Rental
 url: https://passyourplumbingexam.com/missouri-springfield-master-plumber-icc-w24/rental-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Missouri Springfield Master Plumber (ICC W24) exam: rental books plus the online course. $594. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $594 (was $894) Save 34% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Missouri has no statewide plumber license; cities such as Springfield and Kansas City license plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -237,7 +237,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

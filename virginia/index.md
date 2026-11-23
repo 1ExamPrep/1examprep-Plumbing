@@ -1,7 +1,7 @@
 ---
 title: Virginia Plumbing License Exam Prep
 url: https://passyourplumbingexam.com/virginia/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Virginia plumbing license exam prep: 6 licenses and 35 packages from $29.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - Virginia also certifies plumbing inspectors and plans examiners using ICC P1, P2 and P3 exams.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Virginia plumbing licenses do we cover?
 
@@ -151,7 +151,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Virginia DPOR (official site)](https://www.dpor.virginia.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

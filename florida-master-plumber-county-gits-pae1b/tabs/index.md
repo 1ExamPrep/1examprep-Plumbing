@@ -1,7 +1,7 @@
 ---
 title: Florida Master Plumber (County, GITS PAE1B) Pre-Printed Tabs
 url: https://passyourplumbingexam.com/florida-master-plumber-county-gits-pae1b/tabs/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Pre-Printed Tabs for the Florida Master Plumber (County, GITS PAE1B) exam: pre-printed tabs for the reference books. $44.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $44.99 (was $60) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/4
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Pre-Printed Tabs include?
 
@@ -91,7 +91,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

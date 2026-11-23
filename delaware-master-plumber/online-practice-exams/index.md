@@ -1,7 +1,7 @@
 ---
 title: Delaware Master Plumber Online Practice Questions
 url: https://passyourplumbingexam.com/delaware-master-plumber/online-practice-exams/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Online Practice Questions for the Delaware Master Plumber exam: online practice questions with explanations. $79.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $120) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/
 - Delaware licenses master and journeyman plumbers through one board that also covers HVACR.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -323,7 +323,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DE PHVACR Board (official site)](https://dpr.delaware.gov/boards/plumbers/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

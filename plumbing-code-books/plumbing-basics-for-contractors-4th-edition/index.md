@@ -1,7 +1,7 @@
 ---
 title: Plumbing Basics for Contractors, 4th Edition
 url: https://passyourplumbingexam.com/plumbing-code-books/plumbing-basics-for-contractors-4th-edition/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Reference Book for the plumbing Plumbing Code Books and References exam: a code book or reference used on plumbing licensing exams. $258. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $258 (was $287) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/32
 - These code books and references show up on many plumbing exam reference lists.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Reference Book include?
 
@@ -93,7 +93,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: OK Books and Courses Rental Residential Plumbing and
 url: https://passyourplumbingexam.com/oklahoma-residential-plumbing-and-natural-gas-contractor/rental-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Oklahoma Residential Plumbing and Natural Gas Contractor exam: rental books plus the online course. $1,270. One-click.
 ---
@@ -27,7 +27,7 @@ $1,270 (was $1,570) Save 19% [Buy now, go to checkout](https://1examprep.com/car
 - The Oklahoma Construction Industries Board licenses plumbing and natural gas contractors and journeymen, including residential classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -345,7 +345,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Michigan Journeyman Plumber Exam Prep
 url: https://passyourplumbingexam.com/michigan-journeyman-plumber/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Journeyman Plumber exam prep for Michigan: 4 options from $59.99 to $344.99, including complete books, tabs and course, exam prep study guide, online exam.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - The 2026 Michigan journeyman packages are built on the 2024 International Plumbing Code.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 4 Journeyman Plumber packages
 
@@ -160,7 +160,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Michigan LARA (official site)](https://www.michigan.gov/lara)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

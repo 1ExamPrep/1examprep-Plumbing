@@ -1,7 +1,7 @@
 ---
 title: MA Journeyman Plumber Part 1 (Written) Complete Book Package
 url: https://passyourplumbingexam.com/massachusetts-journeyman-plumber-part-1-written/book-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Massachusetts Journeyman Plumber Part 1 (Written) exam: every reference book the exam is written to, new and unmarked. $645.
 ---
@@ -27,7 +27,7 @@ $645 (was $745) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Massachusetts licenses journeyman and master plumbers; each exam has a written part and a practical part.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -233,7 +233,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MA Plumbing Board (official site)](https://www.mass.gov/orgs/board-of-state-examiners-of-plumbers-and-gas-fitters)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

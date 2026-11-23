@@ -1,7 +1,7 @@
 ---
 title: Nevada Plumbing Contractor (C-1D) Exam Prep
 url: https://passyourplumbingexam.com/nevada-plumbing-contractor-c-1d/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Plumbing Contractor (C-1D) exam prep for Nevada: 2 options from $945 to $1,545, including books allowed into the exam, complete book package. One-click.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Nevada journeyman plumber cards are local; Reno and Clark County set their own exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 2 Plumbing Contractor (C-1D) packages
 
@@ -143,7 +143,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Nevada NSCB (official site)](https://www.nscb.nv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

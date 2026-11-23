@@ -1,7 +1,7 @@
 ---
 title: West Virginia Plumbing Contractor Exam Prep
 url: https://passyourplumbingexam.com/west-virginia-plumbing-contractor/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Plumbing Contractor exam prep for West Virginia: 8 options from $28.99 to $1,995, including books and courses rental, complete book package, highlighted and.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - West Virginia also certifies plumbing inspectors and plans examiners using ICC P1, P2 and P3 exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Plumbing Contractor packages
 
@@ -199,7 +199,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [WV State Fire Marshal (official site)](https://firemarshal.wv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

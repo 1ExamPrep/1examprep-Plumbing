@@ -1,7 +1,7 @@
 ---
 title: Colorado Journeyman Plumber Exam Prep
 url: https://passyourplumbingexam.com/colorado-journeyman-plumber/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Journeyman Plumber exam prep for Colorado: 6 options from $59.99 to $395, including complete book package, complete books, tabs and course, exam prep package.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Some cities, such as Commerce City, also license plumbers with ICC exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 6 Journeyman Plumber packages
 
@@ -180,7 +180,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [CO State Plumbing Board (official site)](https://dpo.colorado.gov/Plumbing)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

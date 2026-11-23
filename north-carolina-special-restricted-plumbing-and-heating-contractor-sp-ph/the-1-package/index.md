@@ -1,7 +1,7 @@
 ---
 title: North Carolina SP-PH The 1 Package
 url: https://passyourplumbingexam.com/north-carolina-special-restricted-plumbing-and-heating-contractor-sp-ph/the-1-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: The 1 Package (all-inclusive) for the North Carolina Special Restricted Plumbing and Heating Contractor (SP-PH) exam: the Ultimate package plus LLC setup.
 ---
@@ -27,7 +27,7 @@ $2,055 (was $2,555) Save 20% [Buy now, go to checkout](https://1examprep.com/car
 - North Carolina licenses plumbing contractors in Class I and Class II, plus plumbing technicians and restricted limited and special restricted classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -294,7 +294,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

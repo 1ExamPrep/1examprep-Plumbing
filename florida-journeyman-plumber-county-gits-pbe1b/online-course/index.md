@@ -1,7 +1,7 @@
 ---
 title: Florida Journeyman Plumber Online Exam Prep Course
 url: https://passyourplumbingexam.com/florida-journeyman-plumber-county-gits-pbe1b/online-course/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Online Exam Prep Course for the Florida Journeyman Plumber (County, GITS PBE1B) exam: a self-study online course built around the exam. $295. One-click.
 ---
@@ -27,7 +27,7 @@ $295 (was $330) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/32
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -99,7 +99,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

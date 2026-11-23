@@ -1,7 +1,7 @@
 ---
 title: FL Residential Plumbing Inspector Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/florida-residential-plumbing-inspector-icc-p1/ultimate-rental/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Florida Residential Plumbing Inspector (ICC P1) exam: tabbed rental books, a year of the course and application help.
 ---
@@ -27,7 +27,7 @@ $1,925 (was $2,325) Save 17% [Buy now, go to checkout](https://1examprep.com/car
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -255,7 +255,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

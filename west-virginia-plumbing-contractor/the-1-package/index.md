@@ -1,7 +1,7 @@
 ---
 title: West Virginia Plumbing Contractor The 1 Package
 url: https://passyourplumbingexam.com/west-virginia-plumbing-contractor/the-1-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: The 1 Package (all-inclusive) for the West Virginia Plumbing Contractor exam: the Ultimate package plus LLC setup, EIN filing and compliance help. $1,995.
 ---
@@ -27,7 +27,7 @@ $1,995 (was $2,395) Save 17% [Buy now, go to checkout](https://1examprep.com/car
 - The West Virginia State Fire Marshal licenses plumbers; plumbing contractors also hold a West Virginia contractor license.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -305,7 +305,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [WV State Fire Marshal (official site)](https://firemarshal.wv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

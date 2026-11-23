@@ -1,7 +1,7 @@
 ---
 title: Tennessee CMC-A Mechanical Plumbing Exam Prep
 url: https://passyourplumbingexam.com/tennessee-cmc-a-mechanical-plumbing/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: CMC-A Mechanical Plumbing exam prep for Tennessee: 8 options from $79.99 to $2,875, including books and courses rental, complete book package, highlighted.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Prov gives the Tennessee contractor exams; journeyman plumbers are licensed by some cities.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 CMC-A Mechanical Plumbing packages
 
@@ -197,7 +197,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [TN Board for Licensing Contractors (official site)](https://www.tn.gov/commerce/regboards/contractors.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

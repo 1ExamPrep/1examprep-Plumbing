@@ -1,7 +1,7 @@
 ---
 title: Kansas Plumbing License Exam Prep
 url: https://passyourplumbingexam.com/kansas/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Kansas plumbing license exam prep: 5 licenses and 33 packages from $59.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -45,7 +45,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - Kansas prep comes in two exam versions, ICC 557/560 and KGF/KGR, so check which one your city uses before you order.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Kansas plumbing licenses do we cover?
 
@@ -146,7 +146,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

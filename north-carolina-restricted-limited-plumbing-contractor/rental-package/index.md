@@ -1,7 +1,7 @@
 ---
 title: NC Books and Courses Rental Restricted Limited Plumbing
 url: https://passyourplumbingexam.com/north-carolina-restricted-limited-plumbing-contractor/rental-package/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the North Carolina Restricted Limited Plumbing Contractor exam: rental books plus the online course. $1,290. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,290 (was $1,590) Save 19% [Buy now, go to checkout](https://1examprep.com/car
 - North Carolina licenses plumbing contractors in Class I and Class II, plus plumbing technicians and restricted limited and special restricted classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -260,7 +260,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

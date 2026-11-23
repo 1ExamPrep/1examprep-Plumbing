@@ -1,7 +1,7 @@
 ---
 title: MD Plumber Gas Fitter Journeyman Online Exam Prep Course
 url: https://passyourplumbingexam.com/maryland-plumber-gas-fitter-journeyman/online-course/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Plumbing Exam
 description: Online Exam Prep Course for the Maryland Plumber Gas Fitter Journeyman exam: a self-study online course built around the exam. $295. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - The Maryland State Board of Plumbing licenses journeyman and master plumbers and gas fitters.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -245,7 +245,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MD Board of Plumbing (official site)](https://www.labor.maryland.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
