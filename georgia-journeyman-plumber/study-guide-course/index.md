@@ -14,7 +14,7 @@ Journeyman Plumber · Study Guide and Online Course
 
 The 2026 Georgia Journeyman Plumber Exam Prep Study Guide & Online Course (Based on 2024 IPC) is the 2026 study guide plus the online course for the Journeyman Plumber exam (Georgia), at $119.99, 20% off the $150 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$119.99 (was $150) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/45744691314745:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com)
+$119.99 (was $150) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/51289875185721:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -35,8 +35,11 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 - Written to the 2024 code cycle. Check the code edition in your candidate bulletin: many exams now use the 2024 editions, which the 2026 packages cover.
+- Options from $119.99 to $179.99, chosen above before checkout
 
-The Study Guide and Online Course costs $119.99 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+The Study Guide and Online Course costs $119.99 to $179.99 with the options above and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
+**Options at checkout:** Study Guide + Online Course; Study Guide + Online Course + Flash Cards / Cram Sheet Combo [+$60]. Pick one above and the price updates.
 
 ## About this Journeyman Plumber package
 
@@ -126,7 +129,7 @@ The Journeyman Plumber license comes from the Georgia State Construction Industr
 ## Questions before you buy
 
 ### How much is the 2026 Georgia Journeyman Plumber Exam Prep Study Guide & Online Course (Based on ?
-$119.99. The price at checkout is the one that applies, and it is shown before you pay.
+$119.99 to $179.99 depending on the option you pick. The price at checkout is the one that applies, and it is shown before you pay.
 
 ### What is included?
 Study Guide and Online Course: the 2026 study guide plus the online course. Books ship from our fulfillment center, 1 Exam Prep.

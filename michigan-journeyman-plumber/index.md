@@ -52,8 +52,8 @@ Exam Prep Study Guide
 
 The 2026 state study guide on your exam's code.
 
-$59.99 (was $79) Save 24%
-[Buy now](https://1examprep.com/cart/45745034690617:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/michigan-journeyman-plumber/study-guide/)
+$59.99 (was $79) Save 24%  to $119.99
+[Buy now](https://1examprep.com/cart/51290397343801:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/michigan-journeyman-plumber/study-guide/)
 
 Online Exam Prep Course
 [Michigan Journeyman Plumber - Online Exam Prep Course](https://passyourplumbingexam.com/michigan-journeyman-plumber/online-course/)

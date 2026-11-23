@@ -52,8 +52,8 @@ Exam Prep Study Guide
 
 The 2026 state study guide on your exam's code.
 
-$59.99 (was $79) Save 24%
-[Buy now](https://1examprep.com/cart/45745181950009:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/ohio-journeyman-plumber/study-guide/)
+$59.99 (was $79) Save 24%  to $119.99
+[Buy now](https://1examprep.com/cart/51290911604793:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/ohio-journeyman-plumber/study-guide/)
 
 Study Guide and Online Course
 [2026 Ohio Journeyman Plumber Exam Prep Study Guide & Online Course (Based on 2024 IPC)](https://passyourplumbingexam.com/ohio-journeyman-plumber/study-guide-course/)

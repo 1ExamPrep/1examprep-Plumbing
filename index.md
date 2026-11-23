@@ -66,8 +66,8 @@ Study Guide and Online Course
 
 The 2026 study guide plus the online course.
 
-$119.99 (was $150) Save 20%
-[Buy now](https://1examprep.com/cart/45744691314745:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/georgia-journeyman-plumber/study-guide-course/)
+$119.99 (was $150) Save 20%  to $179.99
+[Buy now](https://1examprep.com/cart/51289875185721:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/georgia-journeyman-plumber/study-guide-course/)
 
 Online Exam Prep Course
 [North Carolina Plumbing Class II Contractor - Online Exam Prep](https://passyourplumbingexam.com/north-carolina-plumbing-class-ii-contractor/online-course/)

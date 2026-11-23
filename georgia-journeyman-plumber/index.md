@@ -52,8 +52,8 @@ Exam Prep Study Guide
 
 The 2026 state study guide on your exam's code.
 
-$59.99 (was $79) Save 24%
-[Buy now](https://1examprep.com/cart/45744701440057:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/georgia-journeyman-plumber/study-guide/)
+$59.99 (was $79) Save 24%  to $119.99
+[Buy now](https://1examprep.com/cart/51289869385785:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/georgia-journeyman-plumber/study-guide/)
 
 Online Exam Prep Course
 [Georgia Journeyman Plumber - Online Exam Prep Course](https://passyourplumbingexam.com/georgia-journeyman-plumber/online-course/)
@@ -68,8 +68,8 @@ Study Guide and Online Course
 
 The 2026 study guide plus the online course.
 
-$119.99 (was $150) Save 20%
-[Buy now](https://1examprep.com/cart/45744691314745:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/georgia-journeyman-plumber/study-guide-course/)
+$119.99 (was $150) Save 20%  to $179.99
+[Buy now](https://1examprep.com/cart/51289875185721:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/georgia-journeyman-plumber/study-guide-course/)
 
 Live Virtual Training
 [Georgia Journeyman Plumber Exam Prep - Live Virtual + Self Study Training](https://passyourplumbingexam.com/georgia-journeyman-plumber/live-training/)

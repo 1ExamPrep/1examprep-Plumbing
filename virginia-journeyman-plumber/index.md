@@ -60,8 +60,8 @@ Exam Prep Study Guide
 
 The 2026 state study guide on your exam's code.
 
-$59.99 (was $79) Save 24%
-[Buy now](https://1examprep.com/cart/45745394876473:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/virginia-journeyman-plumber/study-guide/)
+$59.99 (was $79) Save 24%  to $119.99
+[Buy now](https://1examprep.com/cart/51290426245177:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com) · [Details](https://passyourplumbingexam.com/virginia-journeyman-plumber/study-guide/)
 
 Complete Book Package
 [Virginia Journeyman Plumber Book Package](https://passyourplumbingexam.com/virginia-journeyman-plumber/book-package/)

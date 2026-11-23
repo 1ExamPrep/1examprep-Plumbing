@@ -14,7 +14,7 @@ Journeyman Plumber · Exam Prep Study Guide
 
 The 2026 Florida Journeyman Plumber Exam Prep Study Guide (Based on 2024 IPC) is the 2026 state study guide on your exam's code for the Journeyman Plumber exam (Florida), at $59.99, 24% off the $79 list price. Books ship from our fulfillment center, 1 Exam Prep. Call (877) 775-9400 with questions first.
 
-$59.99 (was $79) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/45744602644537:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com)
+$59.99 (was $79) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/51290997030969:1?attributes%5BSite%5D=passyourplumbingexam.com&ref=passyourplumbingexam.com)
 
 - Secure checkout, fulfilled by 1 Exam Prep
 - Books ship from our fulfillment center, 1 Exam Prep
@@ -35,8 +35,11 @@ Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 - Written to the 2024 code cycle. Check the code edition in your candidate bulletin: many exams now use the 2024 editions, which the 2026 packages cover.
+- Options from $59.99 to $119.99, chosen above before checkout
 
-The Exam Prep Study Guide costs $59.99 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+The Exam Prep Study Guide costs $59.99 to $119.99 with the options above and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
+**Options at checkout:** Study Guide; Study Guide + Flash Cards / Cram Sheet Combo [$60]. Pick one above and the price updates.
 
 ## About this Journeyman Plumber package
 
@@ -117,7 +120,7 @@ The Journeyman Plumber license comes from the Florida Construction Industry Lice
 
 ### How much is the 2026 Florida Journeyman Plumber Exam Prep Study Guide (Based on 2024 IPC)?
 
-$59.99. The price at checkout is the one that applies, and it is shown before you pay.
+$59.99 to $119.99 depending on the option you pick. The price at checkout is the one that applies, and it is shown before you pay.
 
 ### What is included?
 
