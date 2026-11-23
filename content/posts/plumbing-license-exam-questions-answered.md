@@ -1,0 +1,110 @@
+---
+title: Plumbing License Exam: 15 Questions People Ask, Answered
+date: 2026-11-23
+updated: 2026-11-23
+author: Max Ace
+excerpt: How hard is the plumbing license exam, what does a plumbing license cost and how long does it take to become a licensed plumber? Straight answers to the 15 questions plumbers search most. Each answer is short, plain and checked against the official board and exam sources.
+metaTitle: Plumbing License Exam: 15 Common Questions Answered
+metaDescription: Plumbing license answers: how hard the journeyman and master exams are, costs, hours, requirements, online options, the IPC and UPC, and how to pass.
+tags: plumbing license, journeyman plumber, master plumber, ipc, upc
+takeaways: Plumbers are licensed by a state board in most states, and by cities or counties in a few, so your board sets the exam. | Most states test on either the International Plumbing Code (IPC) or the Uniform Plumbing Code (UPC); study the edition your bulletin names. | Expect about four to five years of supervised work for a journeyman license and more for a master. | Some plumbing exams are open book and some are closed book, so check your bulletin before you study.
+status: published
+---
+A plumbing license takes years of supervised work and a written exam, usually on the International Plumbing Code (IPC) or the Uniform Plumbing Code (UPC). Most states license journeyman and master plumbers through a state board, while a few leave it to cities. Here are straight answers to the 15 questions plumbers search most.
+
+## What do you need to get a plumbing license?
+
+The basic recipe is the same almost everywhere. You need a set number of years or hours working under a licensed plumber, an application approved by the licensing board, and a passing score on the exam. Many states also want proof of age, a clean record with the board and, for contractors, insurance and a bond. Some states add a practical test where you build a small system. The board in your state publishes the exact list, and your candidate bulletin explains the exam. Read both before you start, so you know which code book and which hours count.
+
+## How do you become a licensed plumber?
+
+Most plumbers follow a ladder. You start as an apprentice, often through a union or trade school program, and log hours under a licensed plumber. Once you have enough hours, you apply and test for a journeyman license. After more years as a journeyman, you can test for master. A master can usually run jobs, pull permits and qualify a plumbing contractor business. Each step needs its own application and exam. Keep pay stubs and supervisor letters from day one, because proving hours is the part that slows most people down.
+
+## How long does it take to get a plumbing license?
+
+Plan on four to five years for a journeyman license in most states, since that is how long the required work hours take. A master license usually adds one to two more years as a journeyman. The application and exam part is quicker. From a complete application to a test date is often a few weeks, and studying takes six to eight weeks for most people. Classroom hours from an apprenticeship program sometimes count toward the total, which can trim the timeline. Check your board's rules on what training it accepts.
+
+## How many hours do you need for a plumbing license?
+
+Most states ask for around 8,000 hours, or about four years, of supervised plumbing work before the journeyman exam. Some ask for fewer hours paired with classroom training, and a few ask for more. Master licenses add more hours as a journeyman. The hours have to be documented, usually with employer letters, pay records or a signed affidavit from the licensed plumber who supervised you. Hours worked without a license or permit in a state that requires one often do not count, so work under someone licensed.
+
+## How much does a plumbing license cost?
+
+The license itself is usually a modest part of the bill. You pay an application fee to the board, an exam fee to the testing vendor and a license fee once you pass. Those often add up to a few hundred dollars, though it varies a lot by state. Then come the code book, a study guide or course, and travel to the test center. Contractor licenses add insurance and a bond. Budget for one retake just in case, since paying for a second attempt hurts less when you planned for it.
+
+## Can you get a plumbing license online?
+
+Not entirely. You can often apply online, pay fees online and study online with courses, practice questions and an AI tutor. The exam itself is almost always taken in person at a test center or a board session, and the hours have to come from real work in the field. Watch out for websites that promise a plumbing license online with no hours or exam. A real license comes only from your state or local board after you meet its experience rules and pass its test.
+
+## How hard is the plumbing license exam?
+
+The plumbing exam is fair but demanding. The questions are not tricks, but they ask for exact answers from the code: pipe sizes, fixture unit values, venting distances, trap rules and material limits. On an open-book exam, the challenge is finding the right table fast. On a closed-book exam, you need to know the most-used values by heart. Math also trips people up, especially pipe sizing, grade and water heater questions. People who study the code layout and take timed practice tests usually do fine.
+
+## Is the plumbing exam hard for first-timers?
+
+First attempts can be tough, mostly because first-timers underestimate it. A plumber with years in the field knows how to do the work but may not know the code's exact wording or where a rule sits in the book. The exam rewards code knowledge, not only skill. First-time takers also tend to spend too long on hard questions. A good fix is to take full-length timed practice exams before test day, review every miss and note which code section had the answer.
+
+## How hard is the journeyman plumbing test?
+
+The journeyman test covers the code a working plumber uses every day. Expect questions on:
+
+- Drainage, waste and vent sizing and fixture units
+- Traps, cleanouts and indirect waste
+- Water supply sizing and backflow protection
+- Water heaters and relief valves
+- Materials, joints and hangers
+
+Many states add a practical portion where you lay out or build a system. The written part is very doable with a study plan. Learn the tables you will use most, and practice sizing questions until they feel routine.
+
+## How do you pass the master plumber exam?
+
+The master exam goes past the daily work into design, larger systems and business rules. It adds more sizing math, storm drainage, medical gas or fuel gas in some states, and sometimes a business and law section. To pass:
+
+| Step | Why it helps |
+|---|---|
+| Get the bulletin and code edition | The exam follows that edition exactly |
+| Tab the code book | Lookups get faster on open-book exams |
+| Drill sizing problems daily | Math is where most points are lost |
+| Take timed practice exams | Pace matters as much as knowledge |
+
+Give the business and law section its own week if your state has one. It is easy points that many candidates skip.
+
+## Is the plumbing exam open book?
+
+Open-book rules depend on the exam. Some plumbing exams are open book, such as many contractor exams and the ICC inspector exams, which allow the references listed in the bulletin. Other exams, including some journeyman tests, are closed book. Texas plumbing written exams, for example, are closed book. Your candidate bulletin is the only reliable answer. If books are allowed, bring the exact edition named and tab it ahead of time. If not, focus on memorizing the most-tested tables and rules.
+
+## Which code is on the plumbing exam, the IPC or the UPC?
+
+Your state picks. Many states use the International Plumbing Code from the ICC, and many others, mostly in the West, use the Uniform Plumbing Code from IAPMO. A few have their own state code. The two codes cover the same work but differ in table values, venting rules and section numbers, so studying the wrong one will cost you points. Your bulletin names the code and the edition. Our 2026 journeyman study guides say on the cover whether they are built on the 2024 IPC or the 2024 UPC.
+
+## How long should you study for the plumbing exam?
+
+Most candidates plan six to eight weeks at about an hour a day. Split the time between learning the code layout, practicing sizing and fixture unit questions, and taking timed practice exams in the last two weeks. If you are going for master, add time for the extra design and business material. Cramming rarely works, because the code is long and the math needs practice to feel easy. A steady hour a day beats a few long weekend sessions.
+
+## What happens if you fail the plumbing exam?
+
+You can retake it. Most boards allow a retake after a short waiting period, with a new exam fee. Your score report usually breaks your result down by subject, which shows where you lost points. Go straight to those areas in your next round of study. Most second attempts fail for the same reason as the first one, which is usually time, so add timed drills to every session. Some states limit attempts or require extra training after repeated failures.
+
+## Does a plumbing license work in another state?
+
+Sometimes. A few states have reciprocity agreements that let a licensed plumber skip some or all of the exam, usually if the exams are similar and the license is in good standing. Many do not, so you apply and test in the new state, though your experience still counts toward its hours. The ICC also offers national plumbing exams that some cities and states accept. Check the new state's board before you move or bid work there.
+
+## Frequently asked questions
+
+Quick answers to a few more questions people ask about the exam and license.
+
+<div class="faq" id="faq">
+<details open><summary>Can I take the plumbing exam without an apprenticeship?</summary><p>Usually yes, if you can prove the required hours of supervised work by other means, such as employer letters or pay records. The board decides what counts.</p></details>
+<details><summary>What score do I need to pass the plumbing license exam?</summary><p>Most boards set the pass mark at about 70 to 75 percent. Your candidate bulletin gives the exact score for your exam.</p></details>
+<details><summary>Are practice questions the real plumbing exam questions?</summary><p>No. Licensing exam questions are confidential. Good practice questions are written to the same subjects and format, with explanations that point to the code.</p></details>
+<details><summary>Is there a practical plumbing exam?</summary><p>Some states add a practical test where you lay out or build a small system. Your bulletin says if yours does.</p></details>
+<details><summary>Do I need a separate plumbing contractor license?</summary><p>In most states, yes, if you want to bid work under your own business. It usually adds insurance, a bond and sometimes a business and law exam.</p></details>
+<details><summary>Can I use the IPC to study for a UPC exam?</summary><p>No. The two codes have different tables and section numbers, so study the code your bulletin names.</p></details>
+</div>
+
+## Sources
+
+- [International Code Council, certification exams](https://www.iccsafe.org/professional-development/certification/)
+- [ICC, International Plumbing Code](https://codes.iccsafe.org/)
+- [IAPMO, Uniform Plumbing Code](https://www.iapmo.org/)
+- [Bureau of Labor Statistics, Plumbers, Pipefitters and Steamfitters](https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm)
