@@ -1,7 +1,7 @@
 ---
 title: California Journeyman Plumber Exam Prep
 url: https://passyourplumbingexam.com/california-journeyman-plumber/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Journeyman Plumber exam prep for California: 3 options from $59.99 to $344.99, including complete books, tabs and course, exam prep study guide, study guide.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - California has no statewide journeyman plumber license, so the journeyman packages suit local and union exams built on the UPC.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 3 Journeyman Plumber packages
 
@@ -153,7 +153,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [CSLB (official site)](https://www.cslb.ca.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

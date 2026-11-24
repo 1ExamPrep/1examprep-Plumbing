@@ -1,7 +1,7 @@
 ---
 title: OK Highlighted and Tabbed Books Residential Plumbing and
 url: https://passyourplumbingexam.com/oklahoma-residential-plumbing-and-natural-gas-contractor/highlighted-tabbed/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Oklahoma Residential Plumbing and Natural Gas Contractor exam: the reference books already highlighted and tabbed. $645.
 ---
@@ -27,7 +27,7 @@ $645 (was $845) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/46
 - The Oklahoma Construction Industries Board licenses plumbing and natural gas contractors and journeymen, including residential classes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -325,7 +325,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

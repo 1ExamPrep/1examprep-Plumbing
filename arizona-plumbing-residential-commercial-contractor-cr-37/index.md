@@ -1,7 +1,7 @@
 ---
 title: AZ Plumbing Residential / Commercial Contractor Exam Prep
 url: https://passyourplumbingexam.com/arizona-plumbing-residential-commercial-contractor-cr-37/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Plumbing Residential / Commercial Contractor (CR-37) exam prep for Arizona: 12 options from $79.99 to $4,415, including books allowed into the exam, books.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Arizona has no statewide journeyman plumber license; cities that license journeymen set their own exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## Plumbing Residential / Commercial Contractor (CR-37) options: online courses and practice
 
@@ -256,7 +256,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

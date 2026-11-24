@@ -1,7 +1,7 @@
 ---
 title: CT Journeyman Plumber Ultimate Exam Prep Package (2021 IPC)
 url: https://passyourplumbingexam.com/connecticut-journeyman-plumber/ultimate-2021/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package (2021 IPC) for the Connecticut Journeyman Plumber exam: the Ultimate package written to the 2021 IPC. $325. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $325 (was $362) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/40
 - Check the code edition in your candidate bulletin: many exams now use the 2024 editions, which the 2026 packages cover.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package (2021 IPC) include?
 
@@ -143,7 +143,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [CT DCP (official site)](https://portal.ct.gov/dcp)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

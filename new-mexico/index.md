@@ -1,7 +1,7 @@
 ---
 title: New Mexico Plumbing License Exam Prep
 url: https://passyourplumbingexam.com/new-mexico/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: New Mexico plumbing license exam prep: 3 licenses and 18 packages from $59.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - New Mexico also certifies plumbing inspectors, with their own exam.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which New Mexico plumbing licenses do we cover?
 
@@ -142,7 +142,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [NM CID (official site)](https://www.rld.nm.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

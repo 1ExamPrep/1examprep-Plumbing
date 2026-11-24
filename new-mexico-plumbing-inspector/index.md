@@ -1,7 +1,7 @@
 ---
 title: New Mexico Plumbing Inspector Exam Prep
 url: https://passyourplumbingexam.com/new-mexico-plumbing-inspector/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Plumbing Inspector exam prep for New Mexico: 7 options from $79.99 to $2,035, including books and courses rental, complete book package, highlighted and.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - New Mexico also certifies plumbing inspectors, with their own exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 7 Plumbing Inspector packages
 
@@ -188,7 +188,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [NM CID (official site)](https://www.rld.nm.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

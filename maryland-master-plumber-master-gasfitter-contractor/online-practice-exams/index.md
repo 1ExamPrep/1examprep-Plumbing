@@ -1,7 +1,7 @@
 ---
 title: MD Online Practice Questions Master Plumber / Master
 url: https://passyourplumbingexam.com/maryland-master-plumber-master-gasfitter-contractor/online-practice-exams/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Online Practice Questions for the Maryland Master Plumber / Master Gasfitter Contractor exam: online practice questions with explanations. $79.99. One-click.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $120) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/
 - The Maryland State Board of Plumbing licenses journeyman and master plumbers and gas fitters.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -433,7 +433,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MD Board of Plumbing (official site)](https://www.labor.maryland.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

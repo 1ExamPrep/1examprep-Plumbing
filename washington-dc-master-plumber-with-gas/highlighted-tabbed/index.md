@@ -1,7 +1,7 @@
 ---
 title: DC Master Plumber with Gas Highlighted and Tabbed Books
 url: https://passyourplumbingexam.com/washington-dc-master-plumber-with-gas/highlighted-tabbed/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Washington DC Master Plumber with Gas exam: the reference books already highlighted and tabbed. $395. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $395 (was $595) Save 34% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Washington DC licenses journeyman and master plumbers, with separate licenses that add gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -301,7 +301,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DC DLCP (official site)](https://dlcp.dc.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

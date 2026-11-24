@@ -1,7 +1,7 @@
 ---
 title: Washington DC Plumbing License Exam Prep
 url: https://passyourplumbingexam.com/washington-dc/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Washington DC plumbing license exam prep: 4 licenses and 10 packages from $105, with books, highlighted and tabbed sets, online courses and one-click.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - Book packages come plain or highlighted and tabbed for the DC exams.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Washington DC plumbing licenses do we cover?
 
@@ -145,7 +145,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [DC DLCP (official site)](https://dlcp.dc.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

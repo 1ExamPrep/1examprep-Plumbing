@@ -1,7 +1,7 @@
 ---
 title: South Carolina Journeyman Plumber Exam Prep
 url: https://passyourplumbingexam.com/south-carolina-journeyman-plumber/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Journeyman Plumber exam prep for South Carolina: 2 options from $175 to $325, including exam prep package (2021 ipc), ultimate exam prep package (2021 ipc).
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Both boards sit within the Department of Labor, Licensing and Regulation.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 2 Journeyman Plumber packages
 
@@ -143,7 +143,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [SC LLR (official site)](https://llr.sc.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

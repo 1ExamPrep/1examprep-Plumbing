@@ -1,7 +1,7 @@
 ---
 title: Utah Residential Plumber Written Exam Prep
 url: https://passyourplumbingexam.com/utah-residential-plumber-written/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Residential Plumber Written exam prep for Utah: 1 option at $1,445, including complete book package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Utah apprentices can test out of training levels 1A to 2B with their own exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Residential Plumber Written package
 
@@ -139,7 +139,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Utah DOPL (official site)](https://dopl.utah.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

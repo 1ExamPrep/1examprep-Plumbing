@@ -1,7 +1,7 @@
 ---
 title: North Carolina SP-PH Highlighted and Tabbed Exam-Room Books
 url: https://passyourplumbingexam.com/north-carolina-special-restricted-plumbing-and-heating-contractor-sp-ph/exam-room-highlighted/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Exam-Room Books for the North Carolina Special Restricted Plumbing and Heating Contractor (SP-PH) exam: the exam-room books, already.
 ---
@@ -27,7 +27,7 @@ $399 (was $599) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/46
 - North Carolina licenses plumbing contractors in Class I and Class II, plus plumbing technicians and restricted limited and special restricted classes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Exam-Room Books include?
 
@@ -236,7 +236,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

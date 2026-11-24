@@ -1,7 +1,7 @@
 ---
 title: New York Plumbing License Exam Prep
 url: https://passyourplumbingexam.com/new-york/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: New York plumbing license exam prep: 1 license and 1 package from $445, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - Check your city's exam rules before you order.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which New York plumbing licenses do we cover?
 
@@ -136,7 +136,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Licensing office (official site)](https://www.nyc.gov/site/buildings/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: VA Highlighted and Tabbed Books Residential Plumber
 url: https://passyourplumbingexam.com/virginia-residential-plumber-tradesman/highlighted-tabbed/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Virginia Residential Plumber Tradesman exam: the reference books already highlighted and tabbed. $345. One-click.
 ---
@@ -27,7 +27,7 @@ $345 (was $445) Save 22% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Virginia licenses journeyman, master and residential plumbing tradesmen through DPOR; PSI gives the exams.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -265,7 +265,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Virginia DPOR (official site)](https://www.dpor.virginia.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

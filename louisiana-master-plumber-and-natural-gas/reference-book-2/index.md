@@ -1,7 +1,7 @@
 ---
 title: Louisiana Master Plumber and Natural Gas Reference Book
 url: https://passyourplumbingexam.com/louisiana-master-plumber-and-natural-gas/reference-book-2/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Reference Book for the Louisiana Master Plumber and Natural Gas exam: a code book or reference used on plumbing licensing exams. $149.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $149.99 (was $199.99) Save 25% [Buy now, go to checkout](https://1examprep.com/c
 - The State Plumbing Board of Louisiana licenses journeyman and master plumbers.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Reference Book include?
 
@@ -475,7 +475,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [LA State Plumbing Board (official site)](https://spbla.com/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

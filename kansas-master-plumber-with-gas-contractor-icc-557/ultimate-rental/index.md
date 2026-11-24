@@ -1,7 +1,7 @@
 ---
 title: Kansas ICC 557 Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/kansas-master-plumber-with-gas-contractor-icc-557/ultimate-rental/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Kansas Master Plumber with Gas Contractor (ICC 557) exam: tabbed rental books, a year of the course and application help.
 ---
@@ -27,7 +27,7 @@ $1,265 (was $1,665) Save 24% [Buy now, go to checkout](https://1examprep.com/car
 - Kansas has no statewide plumber license; cities and counties license plumbers and many use ICC exams.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -225,7 +225,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

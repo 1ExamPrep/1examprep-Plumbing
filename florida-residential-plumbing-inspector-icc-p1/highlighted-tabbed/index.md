@@ -1,7 +1,7 @@
 ---
 title: Florida ICC P1 Highlighted and Tabbed Books
 url: https://passyourplumbingexam.com/florida-residential-plumbing-inspector-icc-p1/highlighted-tabbed/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Florida Residential Plumbing Inspector (ICC P1) exam: the reference books already highlighted and tabbed. $395.
 ---
@@ -27,7 +27,7 @@ $395 (was $595) Save 34% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -209,7 +209,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

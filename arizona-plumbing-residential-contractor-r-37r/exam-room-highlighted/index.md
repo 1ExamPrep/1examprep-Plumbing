@@ -1,7 +1,7 @@
 ---
 title: Arizona R-37R Highlighted and Tabbed Exam-Room Books
 url: https://passyourplumbingexam.com/arizona-plumbing-residential-contractor-r-37r/exam-room-highlighted/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Exam-Room Books for the Arizona Plumbing, Residential Contractor (R-37R) exam: the exam-room books, already highlighted and tabbed.
 ---
@@ -27,7 +27,7 @@ $1,895 (was $2,095) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - The Arizona Registrar of Contractors licenses plumbing contractors in commercial (C-37), dual (CR-37) and residential (R-37R) classes, plus solar plumbing classes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Exam-Room Books include?
 
@@ -263,7 +263,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

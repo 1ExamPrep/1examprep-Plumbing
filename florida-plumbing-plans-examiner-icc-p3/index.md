@@ -1,7 +1,7 @@
 ---
 title: Florida Plumbing Plans Examiner (ICC P3) Exam Prep
 url: https://passyourplumbingexam.com/florida-plumbing-plans-examiner-icc-p3/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Plumbing Plans Examiner (ICC P3) exam prep for Florida: 8 options from $79.99 to $3,325, including books and courses rental, complete book package.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Florida journeyman and master plumber cards are issued by counties, which use Prov or GITS exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Plumbing Plans Examiner (ICC P3) packages
 
@@ -204,7 +204,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

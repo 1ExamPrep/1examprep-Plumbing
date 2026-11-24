@@ -1,7 +1,7 @@
 ---
 title: California Residential Plumbing Inspector (ICC J3) Exam Prep
 url: https://passyourplumbingexam.com/california-residential-plumbing-inspector-icc-j3/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Residential Plumbing Inspector (ICC J3) exam prep for California: 1 option at $245, including complete book package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - California has no statewide journeyman plumber license, so the journeyman packages suit local and union exams built on the UPC.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Residential Plumbing Inspector (ICC J3) package
 
@@ -135,7 +135,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [CSLB (official site)](https://www.cslb.ca.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

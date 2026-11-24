@@ -1,7 +1,7 @@
 ---
 title: Plumbing License Exam Blog: Study Tips and State Rules
 url: https://passyourplumbingexam.com/blog/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Study plans, state plumbing licensing rules and exam strategy for plumber and plumbing contractor exams, from Pass Your Plumbing Exam.
 ---
@@ -11,26 +11,35 @@ description: Study plans, state plumbing licensing rules and exam strategy for p
 # The plumbing license exam blog
 
 This blog has study plans, state licensing rules and exam strategy for plumbing license exams, written for people who work full days and study at night. Each post links to the state and license it covers, and every rule we quote links to the board that sets it.
-[All](https://passyourplumbingexam.com/blog/) · [ipc](https://passyourplumbingexam.com/blog/tag/ipc/) · [journeyman plumber](https://passyourplumbingexam.com/blog/tag/journeyman-plumber/) · [master plumber](https://passyourplumbingexam.com/blog/tag/master-plumber/) · [plumbing license](https://passyourplumbingexam.com/blog/tag/plumbing-license/) · [upc](https://passyourplumbingexam.com/blog/tag/upc/)
+[All](https://passyourplumbingexam.com/blog/) · [ipc](https://passyourplumbingexam.com/blog/tag/ipc/) · [ipc and upc](https://passyourplumbingexam.com/blog/tag/ipc-and-upc/) · [journeyman plumber](https://passyourplumbingexam.com/blog/tag/journeyman-plumber/) · [licensing exam prep](https://passyourplumbingexam.com/blog/tag/licensing-exam-prep/) · [master plumber](https://passyourplumbingexam.com/blog/tag/master-plumber/) · [plumbing candidates](https://passyourplumbingexam.com/blog/tag/plumbing-candidates/) · [plumbing exam study guides](https://passyourplumbingexam.com/blog/tag/plumbing-exam-study-guides/) · [plumbing license](https://passyourplumbingexam.com/blog/tag/plumbing-license/) · [plumbing licensing](https://passyourplumbingexam.com/blog/tag/plumbing-licensing/) · [trade exam resources](https://passyourplumbingexam.com/blog/tag/trade-exam-resources/) · [upc](https://passyourplumbingexam.com/blog/tag/upc/)
 
 ## Key takeaways
 
-- 1 post so far, written for plumber, plumbing contractor and inspector candidates.
-- Topics: ipc, journeyman plumber, master plumber, plumbing license, upc.
+- 2 posts so far, written for plumber, plumbing contractor and inspector candidates.
+- Topics: ipc, ipc and upc, journeyman plumber, licensing exam prep, master plumber, plumbing candidates, plumbing exam study guides, plumbing license.
 - Exam prep for 163 plumbing licenses in 46 states and DC, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourplumbingexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 [
 Latest
 
+## How to Choose the Best Plumbing Code Study Guide for IPC Exams
+
+Preparing for your IPC plumbing exam means picking the right study guide, and there are several paths you can take. Some candidates prefer official code books only, like those from ICCSafe.org. These are great if you’re comfortable learning directly from the legal language of the codes without extra
+
+November 24, 2026 10 min read
+](https://passyourplumbingexam.com/blog/choose-plumbing-code-study-guide-ipc-exams/)
+[
+Plumbing License Exam: 15 Questions People Ask,
+
+November 23, 2026 8 min read
+
 ## Plumbing License Exam: 15 Questions People Ask, Answered
 
 How hard is the plumbing license exam, what does a plumbing license cost and how long does it take to become a licensed plumber? Straight answers to the 15 questions plumbers search most. Each answer is short, plain and checked against the official board and exam sources.
-
-November 23, 2026 8 min read
 ](https://passyourplumbingexam.com/blog/plumbing-license-exam-questions-answered/)
 
 ## Where should you start if your plumbing exam is coming up?
@@ -102,7 +111,7 @@ Exam prep for plumber, plumbing contractor and inspector licenses across the US.
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

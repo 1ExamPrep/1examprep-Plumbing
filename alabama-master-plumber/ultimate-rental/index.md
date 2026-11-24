@@ -1,7 +1,7 @@
 ---
 title: Alabama Master Plumber Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/alabama-master-plumber/ultimate-rental/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Alabama Master Plumber exam: tabbed rental books, a year of the course and application help. $2,160. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $2,160 (was $2,560) Save 16% [Buy now, go to checkout](https://1examprep.com/car
 - The Alabama Plumbers and Gas Fitters Examining Board certifies journeyman and master plumbers statewide.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -313,7 +313,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [AL Plumbers and Gas Fitters Board (official site)](https://pgfb.alabama.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

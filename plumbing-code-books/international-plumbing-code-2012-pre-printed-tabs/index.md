@@ -1,7 +1,7 @@
 ---
 title: International Plumbing Code, 2012; Pre-Printed Tabs
 url: https://passyourplumbingexam.com/plumbing-code-books/international-plumbing-code-2012-pre-printed-tabs/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Pre-Printed Tabs for the plumbing Plumbing Code Books and References exam: pre-printed tabs for the reference books. $19.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $19.95 (was $22) Save 9% [Buy now, go to checkout](https://1examprep.com/cart/78
 - These code books and references show up on many plumbing exam reference lists.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Pre-Printed Tabs include?
 
@@ -89,7 +89,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

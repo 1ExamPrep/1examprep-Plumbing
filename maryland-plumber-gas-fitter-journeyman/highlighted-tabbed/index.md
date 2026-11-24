@@ -1,7 +1,7 @@
 ---
 title: MD Highlighted and Tabbed Books Plumber Gas Fitter
 url: https://passyourplumbingexam.com/maryland-plumber-gas-fitter-journeyman/highlighted-tabbed/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Maryland Plumber Gas Fitter Journeyman exam: the reference books already highlighted and tabbed. $795. One-click.
 ---
@@ -27,7 +27,7 @@ $795 (was $995) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/50
 - The Maryland State Board of Plumbing licenses journeyman and master plumbers and gas fitters.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -237,7 +237,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MD Board of Plumbing (official site)](https://www.labor.maryland.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

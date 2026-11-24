@@ -1,7 +1,7 @@
 ---
 title: California Plumbing (C-36) Contractor Exam Prep
 url: https://passyourplumbingexam.com/california-plumbing-c-36-contractor/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Plumbing (C-36) Contractor exam prep for California: 6 options from $79.99 to $3,095, including online exam prep course, reference book. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - California has no statewide journeyman plumber license, so the journeyman packages suit local and union exams built on the UPC.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 6 Plumbing (C-36) Contractor packages
 
@@ -180,7 +180,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [CSLB (official site)](https://www.cslb.ca.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Illinois Journeyman Plumber Exam Prep
 url: https://passyourplumbingexam.com/illinois-journeyman-plumber/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Journeyman Plumber exam prep for Illinois: 3 options from $59.99 to $344.99, including complete books, tabs and course, exam prep study guide, study guide.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - The 2026 Illinois journeyman packages are built on the 2024 International Plumbing Code.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 3 Journeyman Plumber packages
 
@@ -151,7 +151,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Illinois IDPH (official site)](https://dph.illinois.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

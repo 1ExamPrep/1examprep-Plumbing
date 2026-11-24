@@ -1,7 +1,7 @@
 ---
 title: Alabama Plumbing Business and Law Exam Prep
 url: https://passyourplumbingexam.com/alabama-plumbing-business-and-law/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Plumbing Business and Law exam prep for Alabama: 2 options from $245 to $395, including complete book package, highlighted and tabbed books. One-click.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Prov gives several of the Alabama plumber exams, and Alabama also has a plumbing business and law exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 2 Plumbing Business and Law packages
 
@@ -143,7 +143,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [AL Plumbers and Gas Fitters Board (official site)](https://pgfb.alabama.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

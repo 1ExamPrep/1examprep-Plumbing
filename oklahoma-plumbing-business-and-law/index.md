@@ -1,7 +1,7 @@
 ---
 title: Oklahoma Plumbing Business and Law Exam Prep
 url: https://passyourplumbingexam.com/oklahoma-plumbing-business-and-law/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Plumbing Business and Law exam prep for Oklahoma: 6 options from $79.99 to $599.99, including complete book package, highlighted and tabbed books, online.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - PSI gives the Oklahoma plumbing exams, and contractors also take a plumbing business and law exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## 6 Plumbing Business and Law packages
 
@@ -182,7 +182,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

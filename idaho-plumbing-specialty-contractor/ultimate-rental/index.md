@@ -1,7 +1,7 @@
 ---
 title: ID Plumbing Specialty Contractor Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/idaho-plumbing-specialty-contractor/ultimate-rental/
-updated: 2026-11-23
+updated: 2026-11-24
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Idaho Plumbing Specialty Contractor exam: tabbed rental books, a year of the course and application help. $915. One-click.
 ---
@@ -27,7 +27,7 @@ $915 (was $1,315) Save 30% [Buy now, go to checkout](https://1examprep.com/cart/
 - Idaho licenses journeyman, contractor and specialty plumbers through the Plumbing Board at DOPL.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 24, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -235,7 +235,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Idaho DOPL (official site)](https://dopl.idaho.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
