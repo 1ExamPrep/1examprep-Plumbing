@@ -11,12 +11,12 @@ description: Study plans, state plumbing licensing rules and exam strategy for p
 # The plumbing license exam blog
 
 This blog has study plans, state licensing rules and exam strategy for plumbing license exams, written for people who work full days and study at night. Each post links to the state and license it covers, and every rule we quote links to the board that sets it.
-[All](https://passyourplumbingexam.com/blog/) · [ipc](https://passyourplumbingexam.com/blog/tag/ipc/) · [ipc and upc](https://passyourplumbingexam.com/blog/tag/ipc-and-upc/) · [journeyman plumber](https://passyourplumbingexam.com/blog/tag/journeyman-plumber/) · [licensing exam prep](https://passyourplumbingexam.com/blog/tag/licensing-exam-prep/) · [master plumber](https://passyourplumbingexam.com/blog/tag/master-plumber/) · [plumbing candidates](https://passyourplumbingexam.com/blog/tag/plumbing-candidates/) · [plumbing exam study guides](https://passyourplumbingexam.com/blog/tag/plumbing-exam-study-guides/) · [plumbing license](https://passyourplumbingexam.com/blog/tag/plumbing-license/) · [plumbing licensing](https://passyourplumbingexam.com/blog/tag/plumbing-licensing/) · [trade exam resources](https://passyourplumbingexam.com/blog/tag/trade-exam-resources/) · [upc](https://passyourplumbingexam.com/blog/tag/upc/)
+[All](https://passyourplumbingexam.com/blog/) · [alabama plumbing exam](https://passyourplumbingexam.com/blog/tag/alabama-plumbing-exam/) · [ipc](https://passyourplumbingexam.com/blog/tag/ipc/) · [ipc and upc](https://passyourplumbingexam.com/blog/tag/ipc-and-upc/) · [journeyman plumber](https://passyourplumbingexam.com/blog/tag/journeyman-plumber/) · [licensing exam prep](https://passyourplumbingexam.com/blog/tag/licensing-exam-prep/) · [master plumber](https://passyourplumbingexam.com/blog/tag/master-plumber/) · [plumbing candidates](https://passyourplumbingexam.com/blog/tag/plumbing-candidates/) · [plumbing codes](https://passyourplumbingexam.com/blog/tag/plumbing-codes/) · [plumbing exam study guides](https://passyourplumbingexam.com/blog/tag/plumbing-exam-study-guides/) · [plumbing license](https://passyourplumbingexam.com/blog/tag/plumbing-license/) · [plumbing licensing](https://passyourplumbingexam.com/blog/tag/plumbing-licensing/) · [trade exam resources](https://passyourplumbingexam.com/blog/tag/trade-exam-resources/) · [upc](https://passyourplumbingexam.com/blog/tag/upc/)
 
 ## Key takeaways
 
-- 2 posts so far, written for plumber, plumbing contractor and inspector candidates.
-- Topics: ipc, ipc and upc, journeyman plumber, licensing exam prep, master plumber, plumbing candidates, plumbing exam study guides, plumbing license.
+- 3 posts so far, written for plumber, plumbing contractor and inspector candidates.
+- Topics: alabama plumbing exam, ipc, ipc and upc, journeyman plumber, licensing exam prep, master plumber, plumbing candidates, plumbing codes.
 - Exam prep for 163 plumbing licenses in 46 states and DC, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
@@ -33,6 +33,13 @@ Preparing for your IPC plumbing exam means picking the right study guide, and th
 November 24, 2026 10 min read
 ](https://passyourplumbingexam.com/blog/choose-plumbing-code-study-guide-ipc-exams/)
 [
+
+November 24, 2026 9 min read
+
+## Best Plumbing Exam Study Guide for Alabama Licensing: Pass Your Plumbing Exam vs Top Alternatives
+
+If you’re preparing for the Alabama plumbing licensing exam, picking the right study guide is crucial. The exam tests your knowledge of Alabama’s plumbing codes, based on the International Plumbing Code (IPC) or Uniform Plumbing Code (UPC), plus state-specific regulations. To prepare effectively, yo
+](https://passyourplumbingexam.com/blog/best-plumbing-exam-study-guide-alabama-licensing/) · [
 Plumbing License Exam: 15 Questions People Ask,
 
 November 23, 2026 8 min read
