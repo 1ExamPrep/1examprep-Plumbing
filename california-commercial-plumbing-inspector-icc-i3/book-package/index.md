@@ -1,7 +1,7 @@
 ---
 title: CA Commercial Plumbing Inspector Complete Book Package
 url: https://passyourplumbingexam.com/california-commercial-plumbing-inspector-icc-i3/book-package/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the California Commercial Plumbing Inspector (ICC I3) exam: every reference book the exam is written to, new and unmarked. $345.
 ---
@@ -27,7 +27,7 @@ $345 (was $445) Save 22% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The CSLB licenses C-36 plumbing contractors; applicants take the Law and Business exam as well as the trade exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -200,7 +200,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [CSLB (official site)](https://www.cslb.ca.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

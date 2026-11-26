@@ -1,7 +1,7 @@
 ---
 title: ICC Plumbing Plans Examiner (ICC P3) Complete Book Package
 url: https://passyourplumbingexam.com/icc-plumbing-plans-examiner-icc-p3/book-package/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the plumbing Plumbing Plans Examiner (ICC P3) exam: every reference book the exam is written to, new and unmarked. $395. One-click.
 ---
@@ -27,7 +27,7 @@ $395 (was $495) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/46
 - ICC national standard plumber exams (G24, G25, G27, G28 and the F series) are used by many cities and counties that license plumbers.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -218,7 +218,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

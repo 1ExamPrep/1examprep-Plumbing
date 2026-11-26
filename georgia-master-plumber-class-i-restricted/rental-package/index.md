@@ -1,7 +1,7 @@
 ---
 title: Georgia Master Plumber Class I Books and Courses Rental
 url: https://passyourplumbingexam.com/georgia-master-plumber-class-i-restricted/rental-package/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Georgia Master Plumber Class I (Restricted) exam: rental books plus the online course. $2,390. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $2,390 (was $2,690) Save 11% [Buy now, go to checkout](https://1examprep.com/car
 - Georgia licenses master plumbers in Class I (Restricted) and Class II (Unrestricted), plus journeyman plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -345,7 +345,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [GA Plumbers Division (official site)](https://sos.ga.gov/state-construction-industry-licensing-board)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: North Carolina Plumbing License Exam Prep
 url: https://passyourplumbingexam.com/north-carolina/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: North Carolina plumbing license exam prep: 6 licenses and 45 packages from $59.99, with books, highlighted and tabbed sets, online courses and one-click.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - Each North Carolina class has its own exam, and the SP-PH exam has exam-room book packages.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which North Carolina plumbing licenses do we cover?
 
@@ -151,7 +151,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

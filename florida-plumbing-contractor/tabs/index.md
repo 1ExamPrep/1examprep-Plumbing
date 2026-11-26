@@ -1,7 +1,7 @@
 ---
 title: Florida Plumbing Contractor Pre-Printed Tabs
 url: https://passyourplumbingexam.com/florida-plumbing-contractor/tabs/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Pre-Printed Tabs for the Florida Plumbing Contractor exam: pre-printed tabs for the reference books. $69.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $69.99 (was $77.99) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Pre-Printed Tabs include?
 
@@ -103,7 +103,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

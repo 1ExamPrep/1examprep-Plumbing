@@ -1,7 +1,7 @@
 ---
 title: Georgia Journeyman Plumber Live Virtual Training
 url: https://passyourplumbingexam.com/georgia-journeyman-plumber/live-training/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the Georgia Journeyman Plumber exam: live virtual classes with an instructor plus the self-study course. $595. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Georgia licenses master plumbers in Class I (Restricted) and Class II (Unrestricted), plus journeyman plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -288,7 +288,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [GA Plumbers Division (official site)](https://sos.ga.gov/state-construction-industry-licensing-board)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

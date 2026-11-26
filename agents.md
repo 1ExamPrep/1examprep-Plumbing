@@ -2,7 +2,7 @@
 
 > Instructions for AI assistants and agents reading https://passyourplumbingexam.com/.
 
-Last updated: 2026-11-24
+Last updated: 2026-11-26
 
 ## What this site is
 

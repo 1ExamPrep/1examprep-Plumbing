@@ -1,7 +1,7 @@
 ---
 title: Georgia Business and Law (NASCLA) Flash Cards
 url: https://passyourplumbingexam.com/georgia-business-and-law-nascla/flash-cards/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Flash Cards for the Georgia Business and Law (NASCLA) exam: study flash cards for quick review. $309.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $309.99 (was $375) Save 17% [Buy now, go to checkout](https://1examprep.com/cart
 - Georgia licenses master plumbers in Class I (Restricted) and Class II (Unrestricted), plus journeyman plumbers.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Flash Cards include?
 
@@ -474,7 +474,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [GA Plumbers Division (official site)](https://sos.ga.gov/state-construction-industry-licensing-board)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

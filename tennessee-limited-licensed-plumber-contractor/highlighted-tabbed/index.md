@@ -1,7 +1,7 @@
 ---
 title: TN Highlighted and Tabbed Books Limited Licensed Plumber
 url: https://passyourplumbingexam.com/tennessee-limited-licensed-plumber-contractor/highlighted-tabbed/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Tennessee Limited Licensed Plumber Contractor exam: the reference books already highlighted and tabbed. $1,195.
 ---
@@ -27,7 +27,7 @@ $1,195 (was $1,395) Save 14% [Buy now, go to checkout](https://1examprep.com/car
 - The Tennessee Board for Licensing Contractors licenses CMC-A mechanical plumbing contractors and limited licensed plumbers (LLP).
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -261,7 +261,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TN Board for Licensing Contractors (official site)](https://www.tn.gov/commerce/regboards/contractors.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Idaho Plumbing Specialty Contractor Exam Prep
 url: https://passyourplumbingexam.com/idaho-plumbing-specialty-contractor/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Plumbing Specialty Contractor exam prep for Idaho: 6 options from $95 to $1,915, including books and courses rental, complete book package, highlighted and.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Specialty licenses cover narrower work, such as appliance or water pump installation, with their own exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## 6 Plumbing Specialty Contractor packages
 
@@ -181,7 +181,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Idaho DOPL (official site)](https://dopl.idaho.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

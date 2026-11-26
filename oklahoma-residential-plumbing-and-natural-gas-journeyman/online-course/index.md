@@ -1,7 +1,7 @@
 ---
 title: OK Online Exam Prep Course Residential Plumbing and Natural
 url: https://passyourplumbingexam.com/oklahoma-residential-plumbing-and-natural-gas-journeyman/online-course/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Online Exam Prep Course for the Oklahoma Residential Plumbing and Natural Gas Journeyman exam: a self-study online course built around the exam. $295.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Oklahoma Construction Industries Board licenses plumbing and natural gas contractors and journeymen, including residential classes.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -315,7 +315,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

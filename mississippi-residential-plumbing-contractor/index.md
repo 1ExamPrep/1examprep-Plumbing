@@ -1,7 +1,7 @@
 ---
 title: Mississippi Residential Plumbing Contractor Exam Prep
 url: https://passyourplumbingexam.com/mississippi-residential-plumbing-contractor/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Residential Plumbing Contractor exam prep for Mississippi: 3 options from $545 to $1,295, including complete book package, highlighted and tabbed books.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Plumbing is licensed locally here, so the city or county where you work sets the exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## 3 Residential Plumbing Contractor packages
 
@@ -152,7 +152,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [MS Board of Contractors (official site)](https://www.msboc.us/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

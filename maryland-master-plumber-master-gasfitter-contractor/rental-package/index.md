@@ -1,7 +1,7 @@
 ---
 title: MD Books and Courses Rental Master Plumber / Master
 url: https://passyourplumbingexam.com/maryland-master-plumber-master-gasfitter-contractor/rental-package/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Maryland Master Plumber / Master Gasfitter Contractor exam: rental books plus the online course. $1,090. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,090 (was $1,390) Save 22% [Buy now, go to checkout](https://1examprep.com/car
 - The Maryland State Board of Plumbing licenses journeyman and master plumbers and gas fitters.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -250,7 +250,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [MD Board of Plumbing (official site)](https://www.labor.maryland.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

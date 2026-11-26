@@ -1,7 +1,7 @@
 ---
 title: Ohio ICC P3 Highlighted and Tabbed Books
 url: https://passyourplumbingexam.com/ohio-cleveland-plumbing-plans-examiner-icc-p3/highlighted-tabbed/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Ohio Cleveland Plumbing Plans Examiner (ICC P3) exam: the reference books already highlighted and tabbed. $645.
 ---
@@ -27,7 +27,7 @@ $645 (was $845) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/46
 - The Ohio Construction Industry Licensing Board licenses plumbing contractors; journeyman plumbers are licensed by some cities.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -260,7 +260,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Ohio OCILB (official site)](https://com.ohio.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

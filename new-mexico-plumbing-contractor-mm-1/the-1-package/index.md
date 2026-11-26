@@ -1,7 +1,7 @@
 ---
 title: New Mexico Plumbing Contractor MM-1 The 1 Package
 url: https://passyourplumbingexam.com/new-mexico-plumbing-contractor-mm-1/the-1-package/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: The 1 Package (all-inclusive) for the New Mexico Plumbing Contractor MM-1 exam: the Ultimate package plus LLC setup, EIN filing and compliance help. $3,385.
 ---
@@ -27,7 +27,7 @@ $3,385 (was $3,985) Save 15% [Buy now, go to checkout](https://1examprep.com/car
 - The New Mexico Construction Industries Division licenses MM-1 plumbing contractors and certifies journeyman plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -251,7 +251,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [NM CID (official site)](https://www.rld.nm.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

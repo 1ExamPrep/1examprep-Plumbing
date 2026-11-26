@@ -1,7 +1,7 @@
 ---
 title: Plumbing Exam Prep by State | Pass Your Plumbing Exam
 url: https://passyourplumbingexam.com/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Plumbing exam prep for 163 licenses in 46 states and DC: 2026 study guides on the 2024 IPC or UPC, tabbed code books, courses and ICC exam prep.
 ---
@@ -31,7 +31,7 @@ Tap your state. Each state page names the board that licenses plumbers, explains
 - Some states, such as Kansas, Missouri, Pennsylvania and Wyoming, leave plumber licensing to cities, which often use ICC exams.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What do plumbers buy most?
 
@@ -280,7 +280,7 @@ Buy now opens secure checkout at 1 Exam Prep. Books ship free and online courses
 
 Study plans and plumbing licensing news, each post checked against the board that sets the rule.
 
-[November 24, 2026**How to Choose the Best Plumbing Code Study Guide for IPC Exams** Preparing for your IPC plumbing exam means picking the right study guide, and there are several paths you can take. Some candidates prefer official.](https://passyourplumbingexam.com/blog/choose-plumbing-code-study-guide-ipc-exams/) · [November 24, 2026**Best Plumbing Exam Study Guide for Alabama Licensing: Pass Your Plumbing Exam vs Top Alternatives** If you’re preparing for the Alabama plumbing licensing exam, picking the right study guide is crucial. The exam tests your knowledge of Alabama’s.](https://passyourplumbingexam.com/blog/best-plumbing-exam-study-guide-alabama-licensing/) · [November 23, 2026**Plumbing License Exam: 15 Questions People Ask, Answered** How hard is the plumbing license exam, what does a plumbing license cost and how long does it take to become a licensed plumber? Straight answers to.](https://passyourplumbingexam.com/blog/plumbing-license-exam-questions-answered/)
+[November 26, 2026**Affordable Plumbing Exam Study Guides with Current UPC Codes: Pass Your Plumbing Exam vs Alternatives** Preparing for your plumbing licensing exam using the current Uniform Plumbing Code (UPC) requires materials that are both affordable and up-to-date.](https://passyourplumbingexam.com/blog/affordable-plumbing-exam-study-guides-current-upc-codes/) · [November 24, 2026**How to Choose the Best Plumbing Code Study Guide for IPC Exams** Preparing for your IPC plumbing exam means picking the right study guide, and there are several paths you can take. Some candidates prefer official.](https://passyourplumbingexam.com/blog/choose-plumbing-code-study-guide-ipc-exams/) · [November 24, 2026**Best Plumbing Exam Study Guide for Alabama Licensing: Pass Your Plumbing Exam vs Top Alternatives** If you’re preparing for the Alabama plumbing licensing exam, picking the right study guide is crucial. The exam tests your knowledge of Alabama’s.](https://passyourplumbingexam.com/blog/best-plumbing-exam-study-guide-alabama-licensing/)
 [See every post](https://passyourplumbingexam.com/blog/)
 
 ## What do people ask before buying?
@@ -323,7 +323,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ## Your exam date is not moving. *Start today.*
 

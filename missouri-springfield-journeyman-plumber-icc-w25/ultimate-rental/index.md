@@ -1,7 +1,7 @@
 ---
 title: MO Springfield Journeyman Plumber Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/missouri-springfield-journeyman-plumber-icc-w25/ultimate-rental/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Missouri Springfield Journeyman Plumber (ICC W25) exam: tabbed rental books, a year of the course and application help.
 ---
@@ -27,7 +27,7 @@ $1,019 (was $1,419) Save 28% [Buy now, go to checkout](https://1examprep.com/car
 - Missouri has no statewide plumber license; cities such as Springfield and Kansas City license plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -246,7 +246,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

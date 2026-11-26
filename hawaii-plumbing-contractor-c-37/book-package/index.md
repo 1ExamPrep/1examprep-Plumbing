@@ -1,7 +1,7 @@
 ---
 title: Hawaii Plumbing Contractor (C-37) Complete Book Package
 url: https://passyourplumbingexam.com/hawaii-plumbing-contractor-c-37/book-package/
-updated: 2026-11-24
+updated: 2026-11-26
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Hawaii Plumbing Contractor (C-37) exam: every reference book the exam is written to, new and unmarked. $595. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $595 (was $695) Save 14% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Hawaii licenses journeyman and master plumbers through the Board of Electricity and Plumbing; C-37 plumbing contractors go through the Contractors License Board.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 24, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -251,7 +251,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [HI DCCA (official site)](https://cca.hawaii.gov/pvl/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 24, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
