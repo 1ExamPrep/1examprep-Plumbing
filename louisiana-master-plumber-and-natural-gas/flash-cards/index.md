@@ -1,7 +1,7 @@
 ---
 title: Louisiana Master Plumber and Natural Gas Flash Cards
 url: https://passyourplumbingexam.com/louisiana-master-plumber-and-natural-gas/flash-cards/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Flash Cards for the Louisiana Master Plumber and Natural Gas exam: study flash cards for quick review. $309.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $309.99 (was $375) Save 17% [Buy now, go to checkout](https://1examprep.com/cart
 - The State Plumbing Board of Louisiana licenses journeyman and master plumbers.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Flash Cards include?
 
@@ -340,7 +340,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [LA State Plumbing Board (official site)](https://spbla.com/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

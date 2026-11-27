@@ -1,7 +1,7 @@
 ---
 title: Plumbing License Exam FAQ: 20 Answers
 url: https://passyourplumbingexam.com/faq/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Here are 20 answers about plumbing license exams: who licenses plumbers, the IPC and the UPC, open-book rules, ICC exams, package types, rentals, shipping.
 ---
@@ -19,7 +19,7 @@ Here are 20 answers about plumbing license exams: who licenses plumbers, the IPC
 - Every package names the plumbing code it is built on, the IPC or the UPC.
 - Rental, Ultimate and 1 Package prices include a refundable book deposit.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 How do you get a plumbing license? 6How does the plumbing exam work? 5How should you study for it? 4How does ordering work? 5Where are the questions for my state? 47
 
@@ -175,7 +175,7 @@ Exam prep for 163 plumbing licenses, from $19.95. Buy buttons go straight to che
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

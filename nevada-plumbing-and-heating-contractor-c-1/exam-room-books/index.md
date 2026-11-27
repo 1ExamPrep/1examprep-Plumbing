@@ -1,7 +1,7 @@
 ---
 title: Nevada C-1 Books Allowed into the Exam
 url: https://passyourplumbingexam.com/nevada-plumbing-and-heating-contractor-c-1/exam-room-books/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Books Allowed into the Exam for the Nevada Plumbing and Heating Contractor (C-1) exam: only the books the testing center lets you bring in. $1,195. One-click.
 ---
@@ -27,7 +27,7 @@ $1,195 (was $1,295) Save 8% [Buy now, go to checkout](https://1examprep.com/cart
 - The Nevada State Contractors Board licenses C-1 plumbing and heating contractors; every applicant also takes the business and law exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books Allowed into the Exam include?
 
@@ -331,7 +331,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Nevada NSCB (official site)](https://www.nscb.nv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

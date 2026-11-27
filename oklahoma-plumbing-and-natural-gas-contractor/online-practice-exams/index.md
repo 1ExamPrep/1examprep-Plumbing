@@ -1,7 +1,7 @@
 ---
 title: OK Online Practice Questions Plumbing and Natural Gas
 url: https://passyourplumbingexam.com/oklahoma-plumbing-and-natural-gas-contractor/online-practice-exams/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Online Practice Questions for the Oklahoma Plumbing and Natural Gas Contractor exam: online practice questions with explanations. $79.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $129.99) Save 38% [Buy now, go to checkout](https://1examprep.com/ca
 - The Oklahoma Construction Industries Board licenses plumbing and natural gas contractors and journeymen, including residential classes.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -268,7 +268,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

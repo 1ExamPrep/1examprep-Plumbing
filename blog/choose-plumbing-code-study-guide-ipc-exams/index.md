@@ -1,7 +1,7 @@
 ---
 title: Choosing the Best Plumbing Code Study Guide for IPC Exams
 url: https://passyourplumbingexam.com/blog/choose-plumbing-code-study-guide-ipc-exams/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Discover how to pick the right plumbing code study guide for your IPC exam prep from top providers including Pass Your Plumbing Exam.
 ---
@@ -22,7 +22,7 @@ Preparing for your IPC plumbing exam means picking the right study guide, and th
 - Other options like ICCSafe.org provide official codes only, best for self-directed learners comfortable with raw code text.
 - Pass Your Plumbing Exam’s materials include exam strategies, problem-solving drills, and pass guarantees not commonly found elsewhere.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## How to Choose the Best Plumbing Code Study Guide for IPC Exams: Pass Your Plumbing Exam vs the Alternatives
 

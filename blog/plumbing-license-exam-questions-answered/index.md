@@ -1,7 +1,7 @@
 ---
 title: Plumbing License Exam: 15 Common Questions Answered
 url: https://passyourplumbingexam.com/blog/plumbing-license-exam-questions-answered/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Plumbing license answers: how hard the journeyman and master exams are, costs, hours, requirements, online options, the IPC and UPC, and how to pass.
 ---
@@ -22,7 +22,7 @@ How hard is the plumbing license exam, what does a plumbing license cost and how
 - Expect about four to five years of supervised work for a journeyman license and more for a master.
 - Some plumbing exams are open book and some are closed book, so check your bulletin before you study.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 A plumbing license takes years of supervised work and a written exam, usually on the International Plumbing Code (IPC) or the Uniform Plumbing Code (UPC). Most states license journeyman and master plumbers through a state board, while a few leave it to cities. Here are straight answers to the 15 questions plumbers search most.
 

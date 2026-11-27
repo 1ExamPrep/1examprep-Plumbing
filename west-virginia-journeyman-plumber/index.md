@@ -1,7 +1,7 @@
 ---
 title: West Virginia Journeyman Plumber Exam Prep
 url: https://passyourplumbingexam.com/west-virginia-journeyman-plumber/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Journeyman Plumber exam prep for West Virginia: 5 options from $59.99 to $344.99, including complete books, tabs and course, exam prep package (2021 ipc).
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - West Virginia also certifies plumbing inspectors and plans examiners using ICC P1, P2 and P3 exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## 5 Journeyman Plumber packages
 
@@ -172,7 +172,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [WV State Fire Marshal (official site)](https://firemarshal.wv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

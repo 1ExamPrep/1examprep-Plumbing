@@ -1,7 +1,7 @@
 ---
 title: Colorado ICC G27-N Books and Courses Rental
 url: https://passyourplumbingexam.com/colorado-commerce-city-master-plumber-with-gas-icc-g27-n/rental-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Colorado Commerce City Master Plumber with Gas (ICC G27-N) exam: rental books plus the online course. $790. One-click.
 ---
@@ -27,7 +27,7 @@ $790 (was $1,090) Save 28% [Buy now, go to checkout](https://1examprep.com/cart/
 - The Colorado State Plumbing Board licenses residential, journeyman and master plumbers statewide.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -232,7 +232,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [CO State Plumbing Board (official site)](https://dpo.colorado.gov/Plumbing)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

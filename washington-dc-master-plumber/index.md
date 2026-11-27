@@ -1,7 +1,7 @@
 ---
 title: Washington DC Master Plumber Exam Prep
 url: https://passyourplumbingexam.com/washington-dc-master-plumber/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Master Plumber exam prep for Washington DC: 2 options from $105 to $195, including complete book package, highlighted and tabbed books. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Book packages come plain or highlighted and tabbed for the DC exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## 2 Master Plumber packages
 
@@ -144,7 +144,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [DC DLCP (official site)](https://dlcp.dc.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Tennessee CMC-A Mechanical Plumbing Books and Courses Rental
 url: https://passyourplumbingexam.com/tennessee-cmc-a-mechanical-plumbing/rental-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Tennessee CMC-A Mechanical Plumbing exam: rental books plus the online course. $1,885. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,885 (was $2,185) Save 14% [Buy now, go to checkout](https://1examprep.com/car
 - The Tennessee Board for Licensing Contractors licenses CMC-A mechanical plumbing contractors and limited licensed plumbers (LLP).
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -263,7 +263,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [TN Board for Licensing Contractors (official site)](https://www.tn.gov/commerce/regboards/contractors.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

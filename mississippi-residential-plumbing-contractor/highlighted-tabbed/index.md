@@ -1,7 +1,7 @@
 ---
 title: MS Highlighted and Tabbed Books Residential Plumbing
 url: https://passyourplumbingexam.com/mississippi-residential-plumbing-contractor/highlighted-tabbed/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Mississippi Residential Plumbing Contractor exam: the reference books already highlighted and tabbed. $1,295. One-click.
 ---
@@ -27,7 +27,7 @@ $1,295 (was $1,595) Save 19% [Buy now, go to checkout](https://1examprep.com/car
 - The Mississippi State Board of Contractors licenses plumbing contractors, with a separate residential class.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -272,7 +272,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [MS Board of Contractors (official site)](https://www.msboc.us/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

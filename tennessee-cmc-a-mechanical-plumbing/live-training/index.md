@@ -1,7 +1,7 @@
 ---
 title: Tennessee CMC-A Mechanical Plumbing Live Virtual Training
 url: https://passyourplumbingexam.com/tennessee-cmc-a-mechanical-plumbing/live-training/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the Tennessee CMC-A Mechanical Plumbing exam: live virtual classes with an instructor plus the self-study course. $595. One-click.
 ---
@@ -27,7 +27,7 @@ $595 (was $795) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The Tennessee Board for Licensing Contractors licenses CMC-A mechanical plumbing contractors and limited licensed plumbers (LLP).
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -245,7 +245,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TN Board for Licensing Contractors (official site)](https://www.tn.gov/commerce/regboards/contractors.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

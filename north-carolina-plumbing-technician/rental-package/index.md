@@ -1,7 +1,7 @@
 ---
 title: North Carolina Plumbing Technician Books and Courses Rental
 url: https://passyourplumbingexam.com/north-carolina-plumbing-technician/rental-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the North Carolina Plumbing Technician exam: rental books plus the online course. $1,290. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,290 (was $1,590) Save 19% [Buy now, go to checkout](https://1examprep.com/car
 - North Carolina licenses plumbing contractors in Class I and Class II, plus plumbing technicians and restricted limited and special restricted classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -253,7 +253,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

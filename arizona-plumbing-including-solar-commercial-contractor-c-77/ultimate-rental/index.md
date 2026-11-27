@@ -1,7 +1,7 @@
 ---
 title: Arizona C-77 Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/arizona-plumbing-including-solar-commercial-contractor-c-77/ultimate-rental/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Arizona Plumbing, Including Solar Commercial Contractor (C-77) exam: tabbed rental books, a year of the course and.
 ---
@@ -27,7 +27,7 @@ $3,465 (was $3,865) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - The Arizona Registrar of Contractors licenses plumbing contractors in commercial (C-37), dual (CR-37) and residential (R-37R) classes, plus solar plumbing classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -324,7 +324,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

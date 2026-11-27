@@ -1,7 +1,7 @@
 ---
 title: Georgia Master Plumber Class II Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/georgia-master-plumber-class-ii-unrestricted/ultimate-rental/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Georgia Master Plumber Class II (Unrestricted) exam: tabbed rental books, a year of the course and application help.
 ---
@@ -27,7 +27,7 @@ $2,815 (was $3,215) Save 12% [Buy now, go to checkout](https://1examprep.com/car
 - Georgia licenses master plumbers in Class I (Restricted) and Class II (Unrestricted), plus journeyman plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -350,7 +350,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [GA Plumbers Division (official site)](https://sos.ga.gov/state-construction-industry-licensing-board)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

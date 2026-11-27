@@ -1,7 +1,7 @@
 ---
 title: MO Springfield Journeyman Plumber Live Virtual Training
 url: https://passyourplumbingexam.com/missouri-springfield-journeyman-plumber-icc-w25/live-training/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the Missouri Springfield Journeyman Plumber (ICC W25) exam: live virtual classes with an instructor plus the self-study course.
 ---
@@ -27,7 +27,7 @@ $395 (was $595) Save 34% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Missouri has no statewide plumber license; cities such as Springfield and Kansas City license plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -267,7 +267,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

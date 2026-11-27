@@ -1,7 +1,7 @@
 ---
 title: OH Plumbing Plans Examiner (ICC P3) Books and Courses Rental
 url: https://passyourplumbingexam.com/ohio-plumbing-plans-examiner-icc-p3/rental-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Ohio Plumbing Plans Examiner (ICC P3) exam: rental books plus the online course. $940. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $940 (was $1,240) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/
 - The Ohio Construction Industry Licensing Board licenses plumbing contractors; journeyman plumbers are licensed by some cities.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -238,7 +238,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Ohio OCILB (official site)](https://com.ohio.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

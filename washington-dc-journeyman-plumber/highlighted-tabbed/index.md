@@ -1,7 +1,7 @@
 ---
 title: DC Journeyman Plumber Highlighted and Tabbed Books
 url: https://passyourplumbingexam.com/washington-dc-journeyman-plumber/highlighted-tabbed/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Washington DC Journeyman Plumber exam: the reference books already highlighted and tabbed. $195. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $195 (was $395) Save 51% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Washington DC licenses journeyman and master plumbers, with separate licenses that add gas fitting.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -306,7 +306,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DC DLCP (official site)](https://dlcp.dc.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: NC Plumbing Class I Contractor Ultimate Exam Prep Package
 url: https://passyourplumbingexam.com/north-carolina-plumbing-class-i-contractor/ultimate-rental/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the North Carolina Plumbing Class I Contractor exam: tabbed rental books, a year of the course and application help. $1,815.
 ---
@@ -27,7 +27,7 @@ $1,815 (was $2,215) Save 18% [Buy now, go to checkout](https://1examprep.com/car
 - North Carolina licenses plumbing contractors in Class I and Class II, plus plumbing technicians and restricted limited and special restricted classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -256,7 +256,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: West Virginia Plumbing Contractor Pre-Printed Tabs
 url: https://passyourplumbingexam.com/west-virginia-plumbing-contractor/tabs/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Pre-Printed Tabs for the West Virginia Plumbing Contractor exam: pre-printed tabs for the reference books. $28.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $28.99 (was $32.25) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - The West Virginia State Fire Marshal licenses plumbers; plumbing contractors also hold a West Virginia contractor license.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Pre-Printed Tabs include?
 
@@ -98,7 +98,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [WV State Fire Marshal (official site)](https://firemarshal.wv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

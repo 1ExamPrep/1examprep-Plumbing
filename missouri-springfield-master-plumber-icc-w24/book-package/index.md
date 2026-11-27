@@ -1,7 +1,7 @@
 ---
 title: Missouri Springfield Master Plumber Complete Book Package
 url: https://passyourplumbingexam.com/missouri-springfield-master-plumber-icc-w24/book-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Missouri Springfield Master Plumber (ICC W24) exam: every reference book the exam is written to, new and unmarked. $145.
 ---
@@ -27,7 +27,7 @@ $145 (was $245) Save 41% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Missouri has no statewide plumber license; cities such as Springfield and Kansas City license plumbers.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -238,7 +238,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

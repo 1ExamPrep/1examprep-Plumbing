@@ -1,7 +1,7 @@
 ---
 title: Florida Plumbing Plans Examiner (ICC P3) The 1 Package
 url: https://passyourplumbingexam.com/florida-plumbing-plans-examiner-icc-p3/the-1-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: The 1 Package (all-inclusive) for the Florida Plumbing Plans Examiner (ICC P3) exam: the Ultimate package plus LLC setup, EIN filing and compliance help.
 ---
@@ -27,7 +27,7 @@ $3,325 (was $3,825) Save 13% [Buy now, go to checkout](https://1examprep.com/car
 - The Florida Construction Industry Licensing Board certifies plumbing contractors statewide; Pearson VUE gives the state trade exam.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -241,7 +241,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

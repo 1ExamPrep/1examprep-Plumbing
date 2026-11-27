@@ -1,7 +1,7 @@
 ---
 title: Virginia Residential Plumber Tradesman Exam Prep
 url: https://passyourplumbingexam.com/virginia-residential-plumber-tradesman/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Residential Plumber Tradesman exam prep for Virginia: 2 options from $195 to $345, including complete book package, highlighted and tabbed books. One-click.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Virginia also certifies plumbing inspectors and plans examiners using ICC P1, P2 and P3 exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## 2 Residential Plumber Tradesman packages
 
@@ -146,7 +146,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Virginia DPOR (official site)](https://www.dpor.virginia.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

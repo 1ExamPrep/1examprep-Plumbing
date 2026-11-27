@@ -1,7 +1,7 @@
 ---
 title: Utah Plumbing Apprentice Test Out 1B Complete Book Package
 url: https://passyourplumbingexam.com/utah-plumbing-apprentice-test-out-1b/book-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Utah Plumbing Apprentice Test Out 1B exam: every reference book the exam is written to, new and unmarked. $1,495. One-click.
 ---
@@ -27,7 +27,7 @@ $1,495 (was $1,595) Save 6% [Buy now, go to checkout](https://1examprep.com/cart
 - Utah DOPL licenses journeyman, residential journeyman and master plumbers, and master plumbers take a law and rule exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -280,7 +280,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Utah DOPL (official site)](https://dopl.utah.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

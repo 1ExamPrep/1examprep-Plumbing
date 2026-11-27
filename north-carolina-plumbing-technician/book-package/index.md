@@ -1,7 +1,7 @@
 ---
 title: North Carolina Plumbing Technician Complete Book Package
 url: https://passyourplumbingexam.com/north-carolina-plumbing-technician/book-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the North Carolina Plumbing Technician exam: every reference book the exam is written to, new and unmarked. $545. One-click.
 ---
@@ -27,7 +27,7 @@ $545 (was $695) Save 22% [Buy now, go to checkout](https://1examprep.com/cart/46
 - North Carolina licenses plumbing contractors in Class I and Class II, plus plumbing technicians and restricted limited and special restricted classes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -293,7 +293,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

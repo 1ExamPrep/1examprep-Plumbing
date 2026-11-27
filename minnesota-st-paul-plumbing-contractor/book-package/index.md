@@ -1,7 +1,7 @@
 ---
 title: Minnesota St. Paul Plumbing Contractor Complete Book Package
 url: https://passyourplumbingexam.com/minnesota-st-paul-plumbing-contractor/book-package/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Minnesota St. Paul Plumbing Contractor exam: every reference book the exam is written to, new and unmarked. $295. One-click.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/50
 - The Minnesota Department of Labor and Industry licenses journeyworker and master plumbers.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -274,7 +274,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Minnesota DLI (official site)](https://www.dli.mn.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
