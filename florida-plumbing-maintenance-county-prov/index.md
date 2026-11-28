@@ -1,7 +1,7 @@
 ---
 title: Florida Plumbing Maintenance (County, Prov) Exam Prep
 url: https://passyourplumbingexam.com/florida-plumbing-maintenance-county-prov/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Plumbing Maintenance (County, Prov) exam prep for Florida: 1 option at $295, including reference book. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Florida journeyman and master plumber cards are issued by counties, which use Prov or GITS exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Plumbing Maintenance (County, Prov) package
 
@@ -141,7 +141,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Florida CILB (official site)](https://www2.myfloridalicense.com/construction-industry/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

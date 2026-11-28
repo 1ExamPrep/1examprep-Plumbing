@@ -1,7 +1,7 @@
 ---
 title: NC Plumbing Class II Contractor Highlighted and Tabbed Books
 url: https://passyourplumbingexam.com/north-carolina-plumbing-class-ii-contractor/highlighted-tabbed/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the North Carolina Plumbing Class II Contractor exam: the reference books already highlighted and tabbed. $795. One-click.
 ---
@@ -27,7 +27,7 @@ $795 (was $995) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/46
 - North Carolina licenses plumbing contractors in Class I and Class II, plus plumbing technicians and restricted limited and special restricted classes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -263,7 +263,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NC Plumbing Board (official site)](https://nclicensing.org/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

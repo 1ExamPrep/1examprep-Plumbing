@@ -1,7 +1,7 @@
 ---
 title: Delaware Master Plumber Exam Prep
 url: https://passyourplumbingexam.com/delaware-master-plumber/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Master Plumber exam prep for Delaware: 4 options from $79.99 to $995, including complete book package, highlighted and tabbed books, live virtual training.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - The 2026 Delaware journeyman packages are built on the 2024 International Plumbing Code.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## 4 Master Plumber packages
 
@@ -160,7 +160,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [DE PHVACR Board (official site)](https://dpr.delaware.gov/boards/plumbers/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

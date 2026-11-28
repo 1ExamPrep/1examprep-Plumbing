@@ -1,7 +1,7 @@
 ---
 title: Customer Reviews | Pass Your Plumbing Exam
 url: https://passyourplumbingexam.com/reviews/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Read real Google and Shopper Approved reviews from people who used 1 Exam Prep books and courses to pass the plumbing license exam.
 ---
@@ -19,7 +19,7 @@ These are real reviews of 1 Exam Prep from Google and Shopper Approved, shown li
 - Reviews cover 1 Exam Prep as a whole: books, tabs, online courses and customer service.
 - Questions about a review or an order? Email sales@1examprep.com or call (877) 775-9400.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What do customers say on Google?
 
@@ -94,7 +94,7 @@ Call (877) 775-9400 or email sales@1examprep.com with your order number. The sam
 - [Shopper Approved, independent customer ratings](https://www.shopperapproved.com/)
 - [Google Maps user contributed content policy](https://support.google.com/contributionpolicy/answer/7400114)
 
-Reviews load live from Google and Shopper Approved; page updated November 27, 2026.
+Reviews load live from Google and Shopper Approved; page updated November 28, 2026.
 
 ---
 

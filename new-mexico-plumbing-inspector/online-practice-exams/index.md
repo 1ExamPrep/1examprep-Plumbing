@@ -1,7 +1,7 @@
 ---
 title: New Mexico Plumbing Inspector Online Practice Questions
 url: https://passyourplumbingexam.com/new-mexico-plumbing-inspector/online-practice-exams/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Online Practice Questions for the New Mexico Plumbing Inspector exam: online practice questions with explanations. $79.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $120) Save 33% [Buy now, go to checkout](https://1examprep.com/cart/
 - The New Mexico Construction Industries Division licenses MM-1 plumbing contractors and certifies journeyman plumbers.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -275,7 +275,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NM CID (official site)](https://www.rld.nm.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

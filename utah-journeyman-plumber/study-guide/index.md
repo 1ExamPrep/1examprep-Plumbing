@@ -1,7 +1,7 @@
 ---
 title: Utah Journeyman Plumber Exam Prep Study Guide (2024)
 url: https://passyourplumbingexam.com/utah-journeyman-plumber/study-guide/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Exam Prep Study Guide for the Utah Journeyman Plumber exam: the 2026 state study guide on your exam's code. $59.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $59.99 (was $79) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/4
 - Check the code edition in your candidate bulletin: many exams now use the 2024 editions, which the 2026 packages cover.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Study Guide include?
 
@@ -147,7 +147,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Utah DOPL (official site)](https://dopl.utah.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

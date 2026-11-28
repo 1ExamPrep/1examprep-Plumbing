@@ -1,7 +1,7 @@
 ---
 title: Plumbing License Exam Blog: Study Tips and State Rules
 url: https://passyourplumbingexam.com/blog/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Study plans, state plumbing licensing rules and exam strategy for plumber and plumbing contractor exams, from Pass Your Plumbing Exam.
 ---
@@ -15,24 +15,31 @@ This blog has study plans, state licensing rules and exam strategy for plumbing 
 
 ## Key takeaways
 
-- 4 posts so far, written for plumber, plumbing contractor and inspector candidates.
+- 5 posts so far, written for plumber, plumbing contractor and inspector candidates.
 - Topics: alabama plumbing exam, ipc, ipc and upc, journeyman plumber, licensing exam prep, master plumber, plumbing candidates, plumbing codes.
 - Exam prep for 163 plumbing licenses in 46 states and DC, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourplumbingexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 [
 Latest
 
+## Can I Find Plumbing Contractor Exam Study Guides for California Online?
+
+If you’re on the hunt for California plumbing contractor exam study guides, you’ll find quite a few online, each with its own strengths and weaknesses. Pass Your Plumbing Exam is a standout choice because it offers materials tailored specifically to the needs of California’s C-36 license exam. Their
+
+November 28, 2026 10 min read
+](https://passyourplumbingexam.com/blog/california-plumbing-contractor-exam-study-guides-online/)
+[
+
+November 26, 2026 10 min read
+
 ## Affordable Plumbing Exam Study Guides with Current UPC Codes: Pass Your Plumbing Exam vs Alternatives
 
 Preparing for your plumbing licensing exam using the current Uniform Plumbing Code (UPC) requires materials that are both affordable and up-to-date. Many candidates face tough choices between downloading free but outdated code books, investing in expensive official publications, or paying for traini
-
-November 26, 2026 10 min read
-](https://passyourplumbingexam.com/blog/affordable-plumbing-exam-study-guides-current-upc-codes/)
-[
+](https://passyourplumbingexam.com/blog/affordable-plumbing-exam-study-guides-current-upc-codes/) · [
 
 November 24, 2026 10 min read
 
@@ -125,7 +132,7 @@ Exam prep for plumber, plumbing contractor and inspector licenses across the US.
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ICC Commercial Plumbing Inspector Books and Courses Rental
 url: https://passyourplumbingexam.com/icc-commercial-plumbing-inspector-icc-p2/rental-package/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the plumbing Commercial Plumbing Inspector (ICC P2) exam: rental books plus the online course. $940. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $940 (was $1,240) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/
 - ICC national standard plumber exams (G24, G25, G27, G28 and the F series) are used by many cities and counties that license plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -269,7 +269,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

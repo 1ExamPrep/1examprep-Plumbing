@@ -1,7 +1,7 @@
 ---
 title: Plumbing License Exam: 15 Common Questions Answered
 url: https://passyourplumbingexam.com/blog/plumbing-license-exam-questions-answered/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Plumbing license answers: how hard the journeyman and master exams are, costs, hours, requirements, online options, the IPC and UPC, and how to pass.
 ---
@@ -22,7 +22,7 @@ How hard is the plumbing license exam, what does a plumbing license cost and how
 - Expect about four to five years of supervised work for a journeyman license and more for a master.
 - Some plumbing exams are open book and some are closed book, so check your bulletin before you study.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 A plumbing license takes years of supervised work and a written exam, usually on the International Plumbing Code (IPC) or the Uniform Plumbing Code (UPC). Most states license journeyman and master plumbers through a state board, while a few leave it to cities. Here are straight answers to the 15 questions plumbers search most.
 
@@ -160,6 +160,13 @@ Exam prep for 163 plumbing licenses in 46 states and DC.
 
 [
 
+November 28, 2026 10 min read
+
+## Can I Find Plumbing Contractor Exam Study Guides for California Online?
+
+If you’re on the hunt for California plumbing contractor exam study guides, you’ll find quite a few online, each with its own strengths and weaknesses. Pass Your Plumbing Exam is a standout choice because it offers materials tailored specifically to the needs of California’s C-36 license exam. Their
+](https://passyourplumbingexam.com/blog/california-plumbing-contractor-exam-study-guides-online/) · [
+
 November 26, 2026 10 min read
 
 ## Affordable Plumbing Exam Study Guides with Current UPC Codes: Pass Your Plumbing Exam vs Alternatives
@@ -172,14 +179,7 @@ November 24, 2026 10 min read
 ## How to Choose the Best Plumbing Code Study Guide for IPC Exams
 
 Preparing for your IPC plumbing exam means picking the right study guide, and there are several paths you can take. Some candidates prefer official code books only, like those from ICCSafe.org. These are great if you’re comfortable learning directly from the legal language of the codes without extra
-](https://passyourplumbingexam.com/blog/choose-plumbing-code-study-guide-ipc-exams/) · [
-
-November 24, 2026 9 min read
-
-## Best Plumbing Exam Study Guide for Alabama Licensing: Pass Your Plumbing Exam vs Top Alternatives
-
-If you’re preparing for the Alabama plumbing licensing exam, picking the right study guide is crucial. The exam tests your knowledge of Alabama’s plumbing codes, based on the International Plumbing Code (IPC) or Uniform Plumbing Code (UPC), plus state-specific regulations. To prepare effectively, yo
-](https://passyourplumbingexam.com/blog/best-plumbing-exam-study-guide-alabama-licensing/)
+](https://passyourplumbingexam.com/blog/choose-plumbing-code-study-guide-ipc-exams/)
 
 ---
 

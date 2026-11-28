@@ -1,7 +1,7 @@
 ---
 title: Arizona C-78 Online Practice Questions
 url: https://passyourplumbingexam.com/arizona-solar-plumbing-liquid-system-only-commercial-contractor-c-78/online-practice-exams/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Online Practice Questions for the Arizona Solar Plumbing, Liquid System Only Commercial Contractor (C-78) exam: online practice questions with explanations.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $129.99) Save 38% [Buy now, go to checkout](https://1examprep.com/ca
 - The Arizona Registrar of Contractors licenses plumbing contractors in commercial (C-37), dual (CR-37) and residential (R-37R) classes, plus solar plumbing classes.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Questions include?
 
@@ -238,7 +238,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

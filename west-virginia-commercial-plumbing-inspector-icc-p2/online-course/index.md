@@ -1,7 +1,7 @@
 ---
 title: WV Commercial Plumbing Inspector Online Exam Prep Course
 url: https://passyourplumbingexam.com/west-virginia-commercial-plumbing-inspector-icc-p2/online-course/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Online Exam Prep Course for the West Virginia Commercial Plumbing Inspector (ICC P2) exam: a self-study online course built around the exam. $295. One-click.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - The West Virginia State Fire Marshal licenses plumbers; plumbing contractors also hold a West Virginia contractor license.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -250,7 +250,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [WV State Fire Marshal (official site)](https://firemarshal.wv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

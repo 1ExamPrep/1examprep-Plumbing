@@ -1,7 +1,7 @@
 ---
 title: Arizona CR-77 Books Allowed into the Exam
 url: https://passyourplumbingexam.com/arizona-plumbing-including-solar-residential-commercial-contractor-cr-77/exam-room-books/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Books Allowed into the Exam for the Arizona Plumbing, Including Solar Residential / Commercial Contractor (CR-77) exam: only the books the testing center.
 ---
@@ -27,7 +27,7 @@ $1,345 (was $1,445) Save 7% [Buy now, go to checkout](https://1examprep.com/cart
 - The Arizona Registrar of Contractors licenses plumbing contractors in commercial (C-37), dual (CR-37) and residential (R-37R) classes, plus solar plumbing classes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books Allowed into the Exam include?
 
@@ -262,7 +262,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Arizona ROC (official site)](https://roc.az.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

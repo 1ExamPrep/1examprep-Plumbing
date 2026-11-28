@@ -1,7 +1,7 @@
 ---
 title: Kansas Master Plumber with Gas Contractor The 1 Package
 url: https://passyourplumbingexam.com/kansas-master-plumber-with-gas-contractor-icc-557/the-1-package/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: The 1 Package (all-inclusive) for the Kansas Master Plumber with Gas Contractor (ICC 557) exam: the Ultimate package plus LLC setup, EIN filing and.
 ---
@@ -27,7 +27,7 @@ $2,265 (was $2,765) Save 18% [Buy now, go to checkout](https://1examprep.com/car
 - Kansas has no statewide plumber license; cities and counties license plumbers and many use ICC exams.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -207,7 +207,7 @@ It adds help with the state license application plus LLC or corporation setup, E
 - [International Code Council: certification exams](https://www.iccsafe.org/professional-development/certification/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

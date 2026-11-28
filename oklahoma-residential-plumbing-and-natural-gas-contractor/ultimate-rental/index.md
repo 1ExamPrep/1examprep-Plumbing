@@ -1,7 +1,7 @@
 ---
 title: OK Ultimate Exam Prep Package Residential Plumbing and
 url: https://passyourplumbingexam.com/oklahoma-residential-plumbing-and-natural-gas-contractor/ultimate-rental/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Ultimate Exam Prep Package for the Oklahoma Residential Plumbing and Natural Gas Contractor exam: tabbed rental books, a year of the course and application.
 ---
@@ -27,7 +27,7 @@ $1,995 (was $2,395) Save 17% [Buy now, go to checkout](https://1examprep.com/car
 - The Oklahoma Construction Industries Board licenses plumbing and natural gas contractors and journeymen, including residential classes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -332,7 +332,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [Oklahoma CIB (official site)](https://oklahoma.gov/cib.html)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

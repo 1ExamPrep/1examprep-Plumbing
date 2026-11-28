@@ -1,7 +1,7 @@
 ---
 title: Mississippi Plumbing Contractor Books and Courses Rental
 url: https://passyourplumbingexam.com/mississippi-plumbing-contractor/rental-package/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the Mississippi Plumbing Contractor exam: rental books plus the online course. $945. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $945 (was $1,245) Save 24% [Buy now, go to checkout](https://1examprep.com/cart/
 - The Mississippi State Board of Contractors licenses plumbing contractors, with a separate residential class.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -302,7 +302,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [MS Board of Contractors (official site)](https://www.msboc.us/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

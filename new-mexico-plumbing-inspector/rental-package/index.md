@@ -1,7 +1,7 @@
 ---
 title: New Mexico Plumbing Inspector Books and Courses Rental
 url: https://passyourplumbingexam.com/new-mexico-plumbing-inspector/rental-package/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Books and Courses Rental for the New Mexico Plumbing Inspector exam: rental books plus the online course. $1,610. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $1,610 (was $1,910) Save 16% [Buy now, go to checkout](https://1examprep.com/car
 - The New Mexico Construction Industries Division licenses MM-1 plumbing contractors and certifies journeyman plumbers.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -241,7 +241,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [NM CID (official site)](https://www.rld.nm.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

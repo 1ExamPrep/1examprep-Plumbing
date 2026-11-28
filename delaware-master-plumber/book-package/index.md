@@ -1,7 +1,7 @@
 ---
 title: Delaware Master Plumber Complete Book Package
 url: https://passyourplumbingexam.com/delaware-master-plumber/book-package/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Delaware Master Plumber exam: every reference book the exam is written to, new and unmarked. $645. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $645 (was $745) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/46
 - Delaware licenses master and journeyman plumbers through one board that also covers HVACR.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -266,7 +266,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [DE PHVACR Board (official site)](https://dpr.delaware.gov/boards/plumbers/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: New Mexico Plumbing Contractor MM-1 Exam Prep
 url: https://passyourplumbingexam.com/new-mexico-plumbing-contractor-mm-1/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Plumbing Contractor MM-1 exam prep for New Mexico: 8 options from $79.99 to $3,385, including books and courses rental, complete book package, highlighted.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - New Mexico also certifies plumbing inspectors, with their own exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Plumbing Contractor MM-1 packages
 
@@ -197,7 +197,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [NM CID (official site)](https://www.rld.nm.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: California Plumbing (C-36) Contractor Reference Book
 url: https://passyourplumbingexam.com/california-plumbing-c-36-contractor/reference-book/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Reference Book for the California Plumbing (C-36) Contractor exam: a code book or reference used on plumbing licensing exams. $3,095. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $3,095 (was $3,195) Save 3% [Buy now, go to checkout](https://1examprep.com/cart
 - The CSLB licenses C-36 plumbing contractors; applicants take the Law and Business exam as well as the trade exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Reference Book include?
 
@@ -274,7 +274,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [CSLB (official site)](https://www.cslb.ca.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

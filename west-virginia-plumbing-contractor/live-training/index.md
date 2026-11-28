@@ -1,7 +1,7 @@
 ---
 title: West Virginia Plumbing Contractor Live Virtual Training
 url: https://passyourplumbingexam.com/west-virginia-plumbing-contractor/live-training/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Live Virtual Training for the West Virginia Plumbing Contractor exam: live virtual classes with an instructor plus the self-study course. $495. One-click.
 ---
@@ -27,7 +27,7 @@ $495 (was $695) Save 29% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The West Virginia State Fire Marshal licenses plumbers; plumbing contractors also hold a West Virginia contractor license.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Live Virtual Training include?
 
@@ -316,7 +316,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [WV State Fire Marshal (official site)](https://firemarshal.wv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

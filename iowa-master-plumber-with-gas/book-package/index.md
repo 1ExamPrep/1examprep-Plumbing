@@ -1,7 +1,7 @@
 ---
 title: Iowa Master Plumber with Gas Complete Book Package
 url: https://passyourplumbingexam.com/iowa-master-plumber-with-gas/book-package/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Complete Book Package for the Iowa Master Plumber with Gas exam: every reference book the exam is written to, new and unmarked. $295. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/46
 - The Iowa Plumbing and Mechanical Systems Board licenses journeyman and master plumbers, including licenses that add gas.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Book Package include?
 
@@ -228,7 +228,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Iowa PMSB (official site)](https://dial.iowa.gov/)
 - [IAPMO: Uniform Plumbing Code](https://www.iapmo.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

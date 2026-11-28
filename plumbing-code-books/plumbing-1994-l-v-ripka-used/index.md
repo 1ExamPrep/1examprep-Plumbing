@@ -1,7 +1,7 @@
 ---
 title: Plumbing, 1994, L.V. Ripka (used)
 url: https://passyourplumbingexam.com/plumbing-code-books/plumbing-1994-l-v-ripka-used/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Reference Book for the plumbing Plumbing Code Books and References exam: a code book or reference used on plumbing licensing exams. $119.99. One-click.
 ---
@@ -27,7 +27,7 @@ $119.99 (was $133.35) Save 10% [Buy now, go to checkout](https://1examprep.com/c
 - These code books and references show up on many plumbing exam reference lists.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Reference Book include?
 
@@ -87,7 +87,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

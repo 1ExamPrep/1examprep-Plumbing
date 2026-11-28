@@ -1,7 +1,7 @@
 ---
 title: ID Highlighted and Tabbed Books Plumbing Specialty
 url: https://passyourplumbingexam.com/idaho-plumbing-specialty-contractor/highlighted-tabbed/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Highlighted and Tabbed Books for the Idaho Plumbing Specialty Contractor exam: the reference books already highlighted and tabbed. $195. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $195 (was $395) Save 51% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Idaho licenses journeyman, contractor and specialty plumbers through the Plumbing Board at DOPL.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -223,7 +223,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Idaho DOPL (official site)](https://dopl.idaho.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

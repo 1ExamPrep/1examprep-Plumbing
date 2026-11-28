@@ -1,7 +1,7 @@
 ---
 title: Michigan Plumbing License Exam Prep
 url: https://passyourplumbingexam.com/michigan/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Michigan plumbing license exam prep: 1 license and 4 packages from $59.99, with books, highlighted and tabbed sets, online courses and one-click checkout.
 ---
@@ -47,7 +47,7 @@ Not sure which license? Call [(877) 775-9400](tel:+18777759400)
 - The 2026 Michigan journeyman packages are built on the 2024 International Plumbing Code.
 - Buy now goes straight to secure checkout; books ship free from 1 Exam Prep.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## Which Michigan plumbing licenses do we cover?
 
@@ -136,7 +136,7 @@ Books ship free from our fulfillment center, 1 Exam Prep, by USPS Media Mail. On
 - [Michigan LARA (official site)](https://www.michigan.gov/lara)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

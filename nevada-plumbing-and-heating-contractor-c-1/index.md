@@ -1,7 +1,7 @@
 ---
 title: Nevada Plumbing and Heating Contractor (C-1) Exam Prep
 url: https://passyourplumbingexam.com/nevada-plumbing-and-heating-contractor-c-1/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Plumbing and Heating Contractor (C-1) exam prep for Nevada: 2 options from $1,195 to $2,595, including books allowed into the exam, complete book package.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Nevada journeyman plumber cards are local; Reno and Clark County set their own exams.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## 2 Plumbing and Heating Contractor (C-1) packages
 
@@ -143,7 +143,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Nevada NSCB (official site)](https://www.nscb.nv.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

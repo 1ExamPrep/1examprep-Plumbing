@@ -1,7 +1,7 @@
 ---
 title: Virginia Master Plumber Pre-Printed Tabs
 url: https://passyourplumbingexam.com/virginia-master-plumber/tabs/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Pre-Printed Tabs for the Virginia Master Plumber exam: pre-printed tabs for the reference books. $29.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $29.99 (was $33.50) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - Virginia licenses journeyman, master and residential plumbing tradesmen through DPOR; PSI gives the exams.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Pre-Printed Tabs include?
 
@@ -96,7 +96,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Virginia DPOR (official site)](https://www.dpor.virginia.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

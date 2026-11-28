@@ -1,7 +1,7 @@
 ---
 title: MD Master Plumber / Master Gasfitter Contractor Exam Prep
 url: https://passyourplumbingexam.com/maryland-master-plumber-master-gasfitter-contractor/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Master Plumber / Master Gasfitter Contractor exam prep for Maryland: 8 options from $79.99 to $2,115, including books and courses rental, complete book.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - PSI gives the Maryland plumbing and gas fitting exams, with content outlines for each.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 ## 8 Master Plumber / Master Gasfitter Contractor packages
 
@@ -197,7 +197,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [MD Board of Plumbing (official site)](https://www.labor.maryland.gov/)
 - [International Code Council: International Plumbing Code](https://codes.iccsafe.org/)
 
-Licensing facts checked against these pages; last updated November 27, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 28, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

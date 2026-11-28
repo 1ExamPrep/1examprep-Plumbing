@@ -1,7 +1,7 @@
 ---
 title: Affordable Plumbing Exam Study Guides with Current UPC Codes
 url: https://passyourplumbingexam.com/blog/affordable-plumbing-exam-study-guides-current-upc-codes/
-updated: 2026-11-27
+updated: 2026-11-28
 site: Pass Your Plumbing Exam
 description: Discover affordable, up-to-date plumbing exam study guides with current UPC codes. Compare Pass Your Plumbing Exam packages to alternatives for the best prep.
 ---
@@ -21,7 +21,7 @@ Preparing for your plumbing licensing exam using the current Uniform Plumbing Co
 - Official ICC publications are authoritative but often pricier and focused more on IPC than UPC.
 - Budget guides and DIY options may be cheaper but risk using outdated codes or incomplete material.
 
-Updated November 27, 2026 · prices checked against the 1 Exam Prep store
+Updated November 28, 2026 · prices checked against the 1 Exam Prep store
 
 <style>.bh{max-width:1400px;margin:0 auto;padding:0 16px;color:#0f1c46;line-height:1.7;font-size:17px}.bh *{box-sizing:border-box}.bh-card{background:#fff;border:1px solid #e3e6ec;border-radius:12px;padding:24px;margin:0 0 18px}.bh-card--accent{border-left:5px solid #f5b800;background:#fffdf5}.bh-card--navy{background:#0f1c46;color:#fff;border-color:#0f1c46}.bh-card--navy a{color:#f5b800}.bh h1{font-size:clamp(26px,4vw,38px);line-height:1.2;margin:0 0 14px}.bh h2{font-size:clamp(21px,3vw,27px);line-height:1.25;margin:0 0 12px}.bh h3{font-size:19px;margin:18px 0 8px}.bh p{margin:0 0 14px}.bh ul,.bh ol{padding-left:22px;margin:0 0 14px}.bh li{margin-bottom:7px}.bh a{color:#1f7a99;font-weight:600}.bh table{width:100%;border-collapse:collapse;margin:0 0 16px;font-size:16px}.bh th{background:#0f1c46;color:#fff;text-align:left;padding:11px;border:1px solid #e3e6ec}.bh td{padding:11px;border:1px solid #e3e6ec}.bh tbody tr:nth-child(even){background:#f6f7f9} @media(max-width:600px){.bh-card{padding:18px}.bh{font-size:16px}}.bh-faq{margin:0 0 22px}.bh-faq h1,.bh-faq h2{color:#0f1c46;margin:0 0 16px}.bh-faq__item{background:#fff;border:1px solid #e3e6ec;border-radius:12px;margin:0 0 10px;overflow:hidden}.bh-faq__q{width:100%;display:flex;justify-content:space-between;align-items:center;gap:12px;background:none;border:0;padding:16px 18px;text-align:left;font:inherit;font-weight:700;color:#0f1c46;cursor:pointer}.bh-faq__q::after{content:"+";font-size:24px;line-height:1;color:#f5b800;transition:transform.25s;flex:0 0 auto}.bh-faq__item.is-open.bh-faq__q::after{transform:rotate(45deg)}.bh-faq__a{display:grid;grid-template-rows:0fr;transition:grid-template-rows.3s ease}.bh-faq__a>div{overflow:hidden;padding:0 18px;color:#0f1c46}.bh-faq__a p{margin:0 0 12px}.bh-faq__item.is-open.bh-faq__a{grid-template-rows:1fr}.bh-faq__item.is-open.bh-faq__a>div{padding:0 18px 16px}.bh-faq--static.bh-faq__q{cursor:default}.bh-faq--static.bh-faq__q::after{display:none}.bh-takeaways li{margin-bottom:10px}.bh-takeaways li::marker{color:#f5b800;font-weight:700}.bh-video__frame{position:relative;width:100%;aspect-ratio:16/9;border-radius:10px;overflow:hidden;background:#000;margin:0 0 18px}.bh-video__frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 
@@ -152,6 +152,13 @@ Exam prep for 163 plumbing licenses in 46 states and DC.
 
 [
 
+November 28, 2026 10 min read
+
+## Can I Find Plumbing Contractor Exam Study Guides for California Online?
+
+If you’re on the hunt for California plumbing contractor exam study guides, you’ll find quite a few online, each with its own strengths and weaknesses. Pass Your Plumbing Exam is a standout choice because it offers materials tailored specifically to the needs of California’s C-36 license exam. Their
+](https://passyourplumbingexam.com/blog/california-plumbing-contractor-exam-study-guides-online/) · [
+
 November 24, 2026 10 min read
 
 ## How to Choose the Best Plumbing Code Study Guide for IPC Exams
@@ -164,15 +171,7 @@ November 24, 2026 9 min read
 ## Best Plumbing Exam Study Guide for Alabama Licensing: Pass Your Plumbing Exam vs Top Alternatives
 
 If you’re preparing for the Alabama plumbing licensing exam, picking the right study guide is crucial. The exam tests your knowledge of Alabama’s plumbing codes, based on the International Plumbing Code (IPC) or Uniform Plumbing Code (UPC), plus state-specific regulations. To prepare effectively, yo
-](https://passyourplumbingexam.com/blog/best-plumbing-exam-study-guide-alabama-licensing/) · [
-Plumbing License Exam: 15 Questions People Ask,
-
-November 23, 2026 8 min read
-
-## Plumbing License Exam: 15 Questions People Ask, Answered
-
-How hard is the plumbing license exam, what does a plumbing license cost and how long does it take to become a licensed plumber? Straight answers to the 15 questions plumbers search most. Each answer is short, plain and checked against the official board and exam sources.
-](https://passyourplumbingexam.com/blog/plumbing-license-exam-questions-answered/)
+](https://passyourplumbingexam.com/blog/best-plumbing-exam-study-guide-alabama-licensing/)
 
 ---
 
